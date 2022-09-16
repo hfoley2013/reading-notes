@@ -3,5 +3,5 @@
 
 I can ***do all kinds of stuff in here***
 
-`**Bold**`**Bold**
-`__italics__`__italics__
+`**Bold**`**Bold** /n
+`__italics__` _italics_
