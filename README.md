@@ -20,7 +20,7 @@ If you generate two or more headings, GitHub autogenerates a Table of Contents, 
 
 ### Styling Text
 
-You can emphasis words using **bold**, *italics*, ~~strickthrough~~, <sub>subscripts</sub>, <sup>superscripts</sup>, & **bold __and__ italtics.**
+You can emphasis words using **bold**, *italics*, ~~strikethrough~~, <sub>subscripts</sub>, <sup>superscripts</sup>, & **bold __and__ italtics.**
 
 | Style | Syntax | Keyboard Shortcut | Example | Output |
 | ---   | ---    | ---               | ---     | ---    |
