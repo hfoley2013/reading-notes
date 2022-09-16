@@ -1,7 +1,7 @@
 # Reading Notes
-## Notes from various readings related to coding
+## Basic markup in Git
 
-I can ***do all kinds of stuff in here***
+### Styling Text
 
 `**Bold**`**Bold**
 
