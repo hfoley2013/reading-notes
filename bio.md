@@ -1,4 +1,5 @@
 # About Me
+![Foley_Head Profile](https://user-images.githubusercontent.com/109574453/190828709-be8bdce5-e24d-4993-bf29-7cfcad4eb27e.jpg)
 
 ##### TLDR: Native Texan 🤠>> World Champion American Skeet🏅 >> Naval Academy ⚓ >> Bomb Disposal Officer 💣 >> Tech M&A Banker 💰>> Aspiring Developer 💻
 
