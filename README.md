@@ -12,3 +12,4 @@
 1. [Basic Markdown Syntax & Notes](https://hfoley2013.github.io/reading-notes/102/markdown-notes)
 2. [Growth Mindset](https://hfoley2013.github.io/reading-notes/102/growth-mindset)
 3. [Basic Commandline Commands](https://hfoley2013.github.io/reading-notes/102/command-line)
+4. Professional Competencies
