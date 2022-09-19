@@ -9,7 +9,13 @@
 
 ## 102: Introduction to Software Development
 ### Table of Contents
-1. [Basic Markdown Syntax & Notes](https://hfoley2013.github.io/reading-notes/102/markdown-notes)
-2. [Growth Mindset](https://hfoley2013.github.io/reading-notes/102/growth-mindset)
-3. [Basic Commandline Commands](https://hfoley2013.github.io/reading-notes/102/command-line)
-4. Professional Competencies
+#### Day 1 - 9/19/2022
+
+##### Notes
+* [Basic Markdown Syntax](https://hfoley2013.github.io/reading-notes/102/markdown-notes)
+* [Basic Commandline Commands](https://hfoley2013.github.io/reading-notes/102/command-line)
+
+##### Assignments 
+* [Lab: 01b - Growth Mindset](https://hfoley2013.github.io/reading-notes/102/growth-mindset)
+* [Lab: 02 - The Coder's Computer](https://hfoley2013.github.io/reading-notes/102/coders-computer)
+* [Professional Competencies](https://hfoley2013.github.io/reading-notes/102/professional-competencies)
