@@ -1,5 +1,9 @@
 # Harper E. Foley
 
+*This site is designed as an online notebook for use while attending the Code Fellows Software Development course of instruction.*
+
+## About Harper
+
 [About Me](https://hfoley2013.github.io/reading-notes/bio)
 
 [My Portfolio](https://github.com/hfoley2013)
