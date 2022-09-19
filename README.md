@@ -1,6 +1,7 @@
 # Harper E. Foley
 
 [About Me](https://hfoley2013.github.io/reading-notes/bio)
+
 [My Portfolio](https://github.com/hfoley2013)
 
 ## 102: Introduction to Software Development
