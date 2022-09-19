@@ -2,6 +2,7 @@
 
 ## Basic Writing & Formatting Syntax in Markdown
 [GitHub Docs: Basic Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 [Markdown Guide: Extended Syntax](https://www.markdownguide.org/extended-syntax/#:~:text=for%20more%20information.-,Tables,either%20end%20of%20the%20row.)
 
 ### [What is Markdown?](https://www.markdownguide.org/getting-started/)
