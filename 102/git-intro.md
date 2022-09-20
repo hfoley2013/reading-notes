@@ -38,7 +38,7 @@ Source: [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutoria
 
 ### Basic Git Commands
 
-* Getting a File's Status
+* **Getting a File's Status**
 
 ``` git
 $ git status
@@ -52,20 +52,20 @@ $ git add * (for all files in a repository)
 $ git add . (for all files in a directory)
 ```
 
-* Committing a File
+* **Committing a File**
 
 ``` git
 $ git commit -m "comments on change" (this commits the current file)
 $ git commit -a (commits all changes made to tracked files)
 ```
 
-* Pushing Changes to Online Repository
+* **Pushing Changes to Online Repository**
 
 ``` git
 $ git push origin master (will push to the master branch on repository on GitHub)
 ```
 
-* Stashing Changes
+* **Stashing Changes**
 
   Used when you are not ready to commit changes, but do not want to lose them
 
@@ -77,7 +77,7 @@ $ git stash apply (retrieves hidden changes)
 
 ### Remote Repositories
 
-* Cloning Repositories
+* **Cloning Repositories**
 
 ``` git
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
