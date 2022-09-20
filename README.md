@@ -9,7 +9,7 @@
 
 ## 102: Introduction to Software Development
 ### Table of Contents
-* [Day 1: Learning Markdown; The Coder's Computer; Professional Competencies](https://github.com/hfoley2013/reading-notes#day-1---9192022)
+* [Day 1: Learning Markdown; The Coder's Computer; Professional Competencies](https://hfoley2013.github.io/reading-notes/#day-1-learning-markdown-the-coders-computer-professional-competencies)
 
 ### Day 1: Learning Markdown; The Coder's Computer; Professional Competencies
 #### Topics
