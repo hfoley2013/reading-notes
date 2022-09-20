@@ -24,4 +24,4 @@
     * [Read: 03 - Intro to Git](https://hfoley2013.github.io/reading-notes/102/git-intro)
   * Class 4
     * [Lab: 04 - Structure Web Pages w/ HTML] (Notes to be added)
-    * [Read: 04 - Structure Web Pages w/ HTML] (Notes to be added)
+    * [Read: 04 - Structure Web Pages w/ HTML](https://hfoley2013.github.io/reading-notes/102/html)
