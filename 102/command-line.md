@@ -1,6 +1,6 @@
-## Command Line Commands
+# Command Line Commands
 
-### Basic Commands
+## Basic Commands
 
 | **Command** | **Meaning** | **Does** |
 | --- | --- | --- |

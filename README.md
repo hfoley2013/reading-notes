@@ -7,26 +7,22 @@
 * [About Me](https://hfoley2013.github.io/reading-notes/bio)
 * [My Portfolio](https://github.com/hfoley2013)
 
-## 102: Introduction to Software Development
-### Table of Contents
-* [Day 1: Learning Markdown; The Coder's Computer; Professional Competencies](https://hfoley2013.github.io/reading-notes/#day-1-learning-markdown-the-coders-computer-professional-competencies)
-* [Day 2: Revisions & the Cloud; Git; HTML & Webpage Structure](https://hfoley2013.github.io/reading-notes/#day-2-revisions--the-cloud-git-html--webpage-structure)
+## Table of Contents
 
-### Day 1: Learning Markdown; The Coder's Computer; Professional Competencies
-#### Class 1
-* [Lab: 01b - Growth Mindset](https://hfoley2013.github.io/reading-notes/102/growth-mindset)
-* [Read: 01 - Basic Markdown Syntax](https://hfoley2013.github.io/reading-notes/102/markdown-notes)
-* [Professional Competencies](https://hfoley2013.github.io/reading-notes/102/professional-competencies)
+### 102: Introduction to Software Development
 
-#### Class 2
-* [Read: 02 - The Coder's Computer](https://hfoley2013.github.io/reading-notes/102/coders-computer)
-* [Basic Command Line Commands](https://hfoley2013.github.io/reading-notes/102/command-line)
-
-### Day 2: Revisions & the Cloud; Git; HTML & Webpage Structure
-#### Class 3
-* [Lab: 03 - Revisions & the Cloud]
-* [Read: 03 - Revisions & the Cloud]
-
-#### Class 4
-* [Lab: 04 - Structure Web Pages w/ HTML] (Notes to be added)
-* [Read: 04 - Structure Web Pages w/ HTML] (Notes to be added)
+* **Day 1: Learning Markdown; The Coder's Computer; Professional Competencies**
+  * Class 1
+    * [Lab: 01b - Growth Mindset](https://hfoley2013.github.io/reading-notes/102/growth-mindset)
+    * [Read: 01 - Basic Markdown Syntax](https://hfoley2013.github.io/reading-notes/102/markdown-notes)
+    * [Professional Competencies](https://hfoley2013.github.io/reading-notes/102/professional-competencies)
+  * Class 2
+    * [Read: 02 - The Coder's Computer](https://hfoley2013.github.io/reading-notes/102/coders-computer)
+    * [Basic Command Line Commands](https://hfoley2013.github.io/reading-notes/102/command-line)
+* **Day 2: Revisions & the Cloud; Git; HTML & Webpage Structure**
+  * Class 3
+    * [Lab: 03 - Revisions & the Cloud]
+    * [Read: 03 - Revisions & the Cloud]
+  * Class 4
+    * [Lab: 04 - Structure Web Pages w/ HTML] (Notes to be added)
+    * [Read: 04 - Structure Web Pages w/ HTML] (Notes to be added)

@@ -1,6 +1,7 @@
 # Reading Notes
 
 ## Basic Writing & Formatting Syntax in Markdown
+
 [GitHub Docs: Basic Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [Markdown Guide: Extended Syntax](https://www.markdownguide.org/extended-syntax/#:~:text=for%20more%20information.-,Tables,either%20end%20of%20the%20row.)
@@ -50,5 +51,6 @@ You can emphasis words using **bold**, *italics*, ~~strikethrough~~, <sub>subscr
 | Ignore Content | `<!-- Ignore This -->` | | *N/A* | Content will not display |
 | Links | ` [Display](URL) ` | | `[GitHub Pages](https://pages.github.com/)` | [GitHub Pages](https://pages.github.com/) |
 | Images | `![Image](URL)` | | `![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)` | ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) |
-| Footnotes | `Text[^#]` | | `Reference[^1]` | Reference[^1].
-[^1]: My Reference |
+| Footnotes | `Text[^#]` | | `Reference[^1]` | Reference[^1] |
+
+[^1]: My Reference

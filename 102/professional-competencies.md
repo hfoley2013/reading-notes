@@ -5,6 +5,7 @@ Link: [Professional Competencies](https://codefellows.github.io/common_curriculu
 ## Self-Assessment
 
 ### Strengths
+
 1. Curiosity
     - I am always curious if there is a better way to do something.
     - I am a self-started who will do the research myself to see if there are lessons from other fields of study that can be integrated into work processes to improve them.
@@ -16,6 +17,7 @@ Link: [Professional Competencies](https://codefellows.github.io/common_curriculu
     - I take pride in my work an insist on the highest standards for both myself and my team members.
 
 ### Weaknesses
+
 1. Tool Proficiency
     - I am new to coding and, therefore, am unfamiliar with the tools at my disposal to write clear, concise, functional, and easily auditable code.
 2. Project Execution
@@ -25,9 +27,10 @@ Link: [Professional Competencies](https://codefellows.github.io/common_curriculu
     - Though I am a process-oriented person, I have not yet built out Standard Operating Procedures or Best Practices for coding.
     - I will need to develop these process based real-world learnings throughout the course and make incremental improvements.
 
-## Professional Competencies
- 
+## The Competencies
+
 ### The Business Acumen Competency
+
 Demonstrated by keen understanding of business operations and customer needs. Uses this to drive the organization towards broader business objectives, in consistent alignment with company mission and vision. |
 
 | Trait | Description |
@@ -36,6 +39,7 @@ Demonstrated by keen understanding of business operations and customer needs. Us
 | Customer Orientation | Seeks customer interaction opportunities, as a customer advocate, to anticipate and discover their needs. Uses detailed information and data about the customer to deliver high quality results and add value. Views features as part of an integrated customer experience. |
 
 ## The Growth Mindset Competency
+
 Demonstrated by commitment to continuous improvement through adaptability, optimism, curiosity, and openness to feedback.
 
 | Trait | Description |
@@ -49,6 +53,7 @@ Demonstrated by commitment to continuous improvement through adaptability, optim
 | Ambition and Initiative | Demonstrates personal drive without needing recognition or reward. When there is downtime, finds a productive task. Exhibits a bias for action with a strong will to accomplish task with excellence. |
 
 ## The Leadership Competency
+
 Demonstrated by proficiency in influencing others by modeling accountability & integrity, building relationships, and mentoring others.
 
 | Trait | Description |
@@ -64,6 +69,7 @@ Demonstrated by proficiency in influencing others by modeling accountability & i
 | Credibility | Having earned reliability and trustworthiness to obtain collaboration and participation of others to accomplish goals. Consistently doing what you say you are going to do. |
 
 ## The Craft Competency
+
 Demonstrated by proficiency in all aspects of their chosen craft, including tools, technologies, and process and methodology.
 
 | Trait | Description |
@@ -77,6 +83,7 @@ Demonstrated by proficiency in all aspects of their chosen craft, including tool
 | Root Cause Resolution | Proactively identifies source of problems beyond the surface. involves the right people to analyze the problem, and tracks the chain of events that lead to the failure. Offers and implements appropriate solutions. |
 
 ## The Communication Competency
+
 Demonstrated by proficiency in written and verbal communications, active listening, and exchanging ideas/knowledge.
 
 | Trait | Description |
@@ -87,6 +94,7 @@ Demonstrated by proficiency in written and verbal communications, active listeni
 | Listening | Has patience to not interrupt, takes turns speaking, pays close attention to what is being shared, and maintains eye contact. Uses listening cues such as nodding to show engagement. Acknowledges concerns and different perspectives of others. |
 
 ## The Teamwork Competency
+
 Demonstrated by the commitment to team success by building collaborative relationships and adhering to team goals.
 
 | Trait | Description |
@@ -94,6 +102,7 @@ Demonstrated by the commitment to team success by building collaborative relatio
 | Collaboration | Actively works with others to produce or create something in a friendly and professional manner on behalf of the entire company, beyond own team or self. Seeks to ensure the team understands the business value of every story by sharing knowledge and expertise with other team members. Consistently tries to improve code quality by seeking pair programming opportunities. |
 
 ## The Results Competency
+
 Demonstrated by proficiency in planning and prioritizing to overcome obstacles, solve problems, and achieve results on schedule.
 
 | Trait | Description |
