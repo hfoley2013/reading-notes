@@ -12,9 +12,20 @@
 * [Day 1: Learning Markdown; The Coder's Computer; Professional Competencies](https://hfoley2013.github.io/reading-notes/#day-1-learning-markdown-the-coders-computer-professional-competencies)
 
 ### Day 1: Learning Markdown; The Coder's Computer; Professional Competencies
-#### Topics
+#### Class 1
 * [Lab: 01b - Growth Mindset](https://hfoley2013.github.io/reading-notes/102/growth-mindset)
 * [Read: 01 - Basic Markdown Syntax](https://hfoley2013.github.io/reading-notes/102/markdown-notes)
+* [Professional Competencies](https://hfoley2013.github.io/reading-notes/102/professional-competencies)
+
+#### Class 2
 * [Read: 02 - The Coder's Computer](https://hfoley2013.github.io/reading-notes/102/coders-computer)
 * [Basic Command Line Commands](https://hfoley2013.github.io/reading-notes/102/command-line)
-* [Professional Competencies](https://hfoley2013.github.io/reading-notes/102/professional-competencies)
+
+### Day 2: Revisions & the Cloud; Git; HTML & Webpage Structure
+#### Class 3
+* [Lab: 03 - Revisions & the Cloud]
+* [Read: 03 - Revisions & the Cloud]
+
+#### Class 4
+* [Lab: 04 - Structure Web Pages w/ HTML]
+* [Read: 04 - Structure Web Pages w/ HTML]
