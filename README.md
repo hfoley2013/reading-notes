@@ -11,8 +11,8 @@
 ### Table of Contents
 * [Day 1: Learning Markdown; The Coder's Computer; Professional Competencies](https://github.com/hfoley2013/reading-notes#day-1---9192022)
 
-#### Day 1: Learning Markdown; The Coder's Computer; Professional Competencies
-##### Topics
+### Day 1: Learning Markdown; The Coder's Computer; Professional Competencies
+#### Topics
 * [Lab: 01b - Growth Mindset](https://hfoley2013.github.io/reading-notes/102/growth-mindset)
 * [Read: 01 - Basic Markdown Syntax](https://hfoley2013.github.io/reading-notes/102/markdown-notes)
 * [Read: 02 - The Coder's Computer](https://hfoley2013.github.io/reading-notes/102/coders-computer)
