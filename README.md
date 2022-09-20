@@ -21,8 +21,7 @@
     * [Basic Command Line Commands](https://hfoley2013.github.io/reading-notes/102/command-line)
 * **Day 2: Revisions & the Cloud; Git; HTML & Webpage Structure**
   * Class 3
-    * [Lab: 03 - Revisions & the Cloud] (Notes to be added)
-    * [Read: 03 - Revisions & the Cloud] (Notes to be added)
+    * [Read: 03 - Revisions & the Cloud](https://hfoley2013.github.io/reading-notes/102/git-intro)
   * Class 4
     * [Lab: 04 - Structure Web Pages w/ HTML] (Notes to be added)
     * [Read: 04 - Structure Web Pages w/ HTML] (Notes to be added)
