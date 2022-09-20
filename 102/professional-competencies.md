@@ -10,9 +10,9 @@ Link: [Professional Competencies](https://codefellows.github.io/common_curriculu
     - I am a self-started who will do the research myself to see if there are lessons from other fields of study that can be integrated into work processes to improve them.
 2. Handling Ambiguity
     - From my time as an Explosive Ordnance Disposal Technician I have learned to operate in ambiguity and make critical risk decisions whenever information is completely lacking or incomplete.
-    - I have learned how to leverage the skills of my team members to build out plans that meet the objective of achieving a desired end-state based on what little vague information we had at our disosal.
+    - I have learned how to leverage the skills of my team members to build out plans that meet the objective of achieving a desired end-state based on what little vague information we had at our disposal.
 3. Ownership
-    - I take full responsiblity of the quality of my own work and that of the teams I am charged to lead.
+    - I take full responsibility of the quality of my own work and that of the teams I am charged to lead.
     - I take pride in my work an insist on the highest standards for both myself and my team members.
 
 ### Weaknesses

@@ -4,16 +4,19 @@
 Go through resources below and create a page in reading-notes that summarizes what you learned as though you were presenting the material to a non-technical friend interested in learning about it.
 
 ### Readings
-[Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
-[The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
-[Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+[Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)  
+
+[The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)  
+
+[Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)  
+
 [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 ### Notes
 
 #### Choosing a Text Editor
 ##### Summary
-In order to write coding in a **clean, clear, concise, efficient**, and **easily auditable** manner, you need to use a good text editor. This text editor should have the ability to **suggest endings to your code snippets (_code completeion_)** as you type to improve speed and reduce redundant typing. It should also **highlight each element within a block of code (_syntax highlighting_)** so that you can quickly distinguish what is text, comments, variables, functions, etc. Furthermore, the text editor should be ***customizable*** through the use of ***extentions*** and a variety of themes. This allows you to make the editor more comfortable for you use and speed up your ability to deliver flawless code.
+In order to write coding in a **clean, clear, concise, efficient**, and **easily auditable** manner, you need to use a good text editor. This text editor should have the ability to **suggest endings to your code snippets (_code completition)** as you type to improve speed and reduce redundant typing. It should also **highlight each element within a block of code (_syntax highlighting_)** so that you can quickly distinguish what is text, comments, variables, functions, etc. Furthermore, the text editor should be ***customizable*** through the use of ***extensions*** and a variety of themes. This allows you to make the editor more comfortable for you use and speed up your ability to deliver flawless code.
 
 ##### Notes
 * What is a text editor?
@@ -21,7 +24,7 @@ In order to write coding in a **clean, clear, concise, efficient**, and **easily
 * Characteristics of a "_good_" text editor
   - *Code Completion*
     - Allows you to start typing and offers suggestions based on what you typed
-    - Automatically enters closing `()`, `[]`, or appropriat ending `</>`
+    - Automatically enters closing `()`, `[]`, or appropriate ending `</>`
   - *Syntax Highlighting*
     - Colorizes text based on its function
     - This allows you to quickly distinguish different elements of a code block
@@ -30,7 +33,7 @@ In order to write coding in a **clean, clear, concise, efficient**, and **easily
     - Light vs. Dark mode, color variations, etc.
   - *Availability of Extensions*
     - Extensions are "plug-ins" for text editors that allow you to have functionality that you otherwise would not
-    - These include fuctions like bracket highlighting and ability to live share code, along with hundreds of other functions depending on the specific text editor
+    - These include functions like bracket highlighting and ability to live share code, along with hundreds of other functions depending on the specific text editor
 * What is an IDE?
   - Integrated Development Environment
     - A suite of software that includes a text editor, file manager, compiler, and debugger all in one package
@@ -45,7 +48,7 @@ In order to write coding in a **clean, clear, concise, efficient**, and **easily
 - What do I type in the command line?
   - The **first thing you type in the _command line_ is a _command_**, such as `ls`, which will look inside your current directory and display the files in there
   - Commands can be modified with *command line arguments* to execute more specific commands
-    - These arguments, aka options, follow the command and are preceeded by a `space`; they typcially start with a `-`
+    - These arguments, aka options, follow the command and are preceded by a `space`; they typically start with a `-`
     - Ex: `ls -l` will look inside the current directory (`ls`) and then generate a long list of contents (`-l`)
 
 ##### Basic Navigation

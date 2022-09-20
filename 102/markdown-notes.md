@@ -7,15 +7,15 @@
 
 ### [What is Markdown?](https://www.markdownguide.org/getting-started/)
 
-Markdown is a lightweight markup language that can be used to add formatting elements to plaintext documents. Unlike a text editior that instantly displays the styling added to text, in Markdown you will only see the syntax of the style while editing. You can utilize the "Preview" feature to view the stylistic changes made to text elements to see how their formatting has changed.
+Markdown is a lightweight markup language that can be used to add formatting elements to plaintext documents. Unlike a text editor that instantly displays the styling added to text, in Markdown you will only see the syntax of the style while editing. You can utilize the "Preview" feature to view the stylistic changes made to text elements to see how their formatting has changed.
 
 ### Why use Markdown?
 
-- It can be used to create websites, documents, notes, books, presentations, email messages, and techinical documentation.
+- It can be used to create websites, documents, notes, books, presentations, email messages, and technical documentation.
 - It is portable; it can be opened by using virtually any application.
 - It is platform independent.
 - It is future proof; even if applications stop working, you will be able to utilize a text editor to read your Markdown file.
-- It is everywhere! GitHub, Reddbit, etc. all support Markdown.
+- It is everywhere! GitHub, Reddit, etc. all support Markdown.
 
 
 ### Headings
@@ -31,7 +31,7 @@ The number of `#` use determines the size: 1 = Largest; 6 = Smallest
 ## Second Largest
 ###### Smallest Heading
 
-If you generate two or more headings, GitHub autogenerates a Table of Contents, accessable by clicking the 3-bulleted list icon.
+If you generate two or more headings, GitHub autogenerates a Table of Contents, accessible by clicking the 3-bulleted list icon.
 
 ### Styling Text
 

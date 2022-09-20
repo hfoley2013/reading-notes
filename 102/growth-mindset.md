@@ -20,7 +20,7 @@ There are two types of mindsets:
 - Growth
 
 ### Fixed Mindset
-**Fixed mindsets** start from the premise that **human traits and characteristcs are immutable.** 
+**Fixed mindsets** start from the premise that **human traits and characteristics are immutable.** 
 
 Examples:
 - You are smart, or you are not
@@ -41,7 +41,7 @@ Therefore, with a fixed mindset, you are more likely to perceive success as a re
 ***Those with a fixed mindset lack grit.***
 
 ### Growth Mindset
-**Growth mindsets** start from the premist that **human traits and characteristics can be developed overtime through effort and learning.**
+**Growth mindsets** start from the premise that **human traits and characteristics can be developed overtime through effort and learning.**
 
 Examples:
 - I can study harder and get that A+
