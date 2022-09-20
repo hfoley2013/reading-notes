@@ -10,6 +10,7 @@
 ## 102: Introduction to Software Development
 ### Table of Contents
 * [Day 1: Learning Markdown; The Coder's Computer; Professional Competencies](https://hfoley2013.github.io/reading-notes/#day-1-learning-markdown-the-coders-computer-professional-competencies)
+* [Day 2: Revisions & the Cloud; Git; HTML & Webpage Structure](https://hfoley2013.github.io/reading-notes/#day-2-revisions--the-cloud-git-html--webpage-structure)
 
 ### Day 1: Learning Markdown; The Coder's Computer; Professional Competencies
 #### Class 1
@@ -27,5 +28,5 @@
 * [Read: 03 - Revisions & the Cloud]
 
 #### Class 4
-* [Lab: 04 - Structure Web Pages w/ HTML]
-* [Read: 04 - Structure Web Pages w/ HTML]
+* [Lab: 04 - Structure Web Pages w/ HTML] (Notes to be added)
+* [Read: 04 - Structure Web Pages w/ HTML] (Notes to be added)
