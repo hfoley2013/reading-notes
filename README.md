@@ -28,7 +28,7 @@
 * **Day 3: Designing Webpages w/ CSS; Activate Webpages w/ JavaScript**
   * Class 5
     * [Read: 05 - Design Webpages w/ CSS](https://hfoley2013.github.io/reading-notes/102/css-basics)
-    * [Lab: 05 - Design Webpages w/ CSS] (Link to site to be added)
+    * [Lab: 05 - Design Webpages w/ CSS](https://hfoley2013.github.io/hello-world/)
   * Class 6
-    * [Read: 06 - Dynamic Webpages w/ JavaScript] (Link to be added)
+    * [Read: 06 - Dynamic Webpages w/ JavaScript](https://hfoley2013.github.io/reading-notes/102/javascript-basics)
     * [Lab: 06 - Activate Webpages w/ JavaScript] (Link to site to be added)
