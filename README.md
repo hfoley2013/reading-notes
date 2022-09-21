@@ -23,5 +23,12 @@
   * Class 3
     * [Read: 03 - Intro to Git](https://hfoley2013.github.io/reading-notes/102/git-intro)
   * Class 4
-    * [Lab: 04 - Structure Web Pages w/ HTML] (Notes to be added)
+    * [Lab: 04 - Structure Web Pages w/ HTML](https://hfoley2013.github.io/hello-world/)
     * [Read: 04 - Structure Web Pages w/ HTML](https://hfoley2013.github.io/reading-notes/102/html)
+* **Day 3: Designing Webpages w/ CSS; Activate Webpages w/ JavaScript**
+  * Class 5
+    * [Read: 05 - Design Webpages w/ CSS](https://hfoley2013.github.io/reading-notes/102/css-basics)
+    * [Lab: 05 - Design Webpages w/ CSS] (Link to site to be added)
+  * Class 6
+    * [Read: 06 - Dynamic Webpages w/ JavaScript] (Link to be added)
+    * [Lab: 06 - Activate Webpages w/ JavaScript] (Link to site to be added)
