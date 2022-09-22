@@ -35,7 +35,7 @@
 * **Day 4: Programming w/ JavaScript; Operators and Loops in JavaScript**
   * Class 7
     * [Read: 07 - Programming w/ JavaScript](https://hfoley2013.github.io/reading-notes/102/programming-with-js)
-    * [Lab: 07 - Programming w/ JavaScript] (link to be added)
+    * [Lab: 07 - Programming w/ JavaScript](https://hfoley2013.github.io/hello-world/)
   * Class 8
     * [Read: 08 - Operators and Loops](https://hfoley2013.github.io/reading-notes/102/operators-loops)
-    * [Lab: 08 - Operators and Loops] (link to be added)
+    * [Lab: 08 - Operators and Loops](https://hfoley2013.github.io/hello-world/)
