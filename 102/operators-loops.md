@@ -26,7 +26,7 @@
 | %=	| x %= y	| x = x % y |
 | **=	x | **= y	| x = x ** y |
 
-# Adding JS Strings
+## Adding JS Strings
 
 * The `+` operator can also be used to concatenate strings
 * This also applies adding numbers and strings together, however, the final output will be a ***string***, *NOT* a number
@@ -39,7 +39,7 @@ let text3 = text1 + " " + text2;
 // output of text3 = 'John Doe'
 ```
 
-# Comparison Operators
+## Comparison Operators
 
 
 | **Operator** |	**Description** |
@@ -83,3 +83,80 @@ let text3 = text1 + " " + text2;
 | <<	| left shift	| 5 << 1	| 0101 << 1	| 1010 | 10 |
 | >>	| right shift	| 5 >> 1	| 0101 >> 1	| 0010	|  2 |
 | >>>	| unsigned right shift	| 5 >>> 1 | 0101 >>> 1 | 0010 |  2 |
+
+## Loops and Iteration
+
+* Loops allow you to execute a piece of code to do something repeatedly given a set of conditions
+* Types of Loops
+  * Do
+  * For
+  * While
+
+### For Statement
+
+* A `for` loop repeats until a specified condition evaluates to `false`
+
+Syntax:
+
+``` js
+for ([initialExpression]; [conditionExpression]; [incrementExpression])
+  statement
+```
+
+Example:
+
+``` js
+let countDown = 10 // Set initial condition in variable
+for (let i = countDown; i >= 0; i--) // While i >= 0, decrement by 1, then exit the loop
+  {
+    console.log(`${i} second${i !== 1 ? 's' : ''} until lift off!`) // Logs count of i
+   }
+console.log('Lift Off!') // When i < 0, log 'Lift Off!'
+```
+
+### Do...While Statement
+
+* The `do...while` statement repeats until a specified condition evaluates to `false`
+
+Syntax:
+
+``` js
+do
+  statement
+while (condition);
+```
+
+Example:
+
+``` js
+let i = 0; // Set initial condition
+do {  // Do the statement below
+  i += 1;
+  console.log(i);
+} while (i < 5); // While i is < 5
+```
+
+### While Statement
+
+* A `while` statement executes its statements as long as a specified condition is `true`
+* If the `condition` becomes `false`, `statement` within the loop stops executing and control passes to the statement that follows the loop
+  * **NOTE:** The condition test occurs *before* `statement` is the loop is executed
+    * If the condition is `true` the loop continues, if `false`, the loop ends and the program moves on to the next block of code
+
+Syntax:
+
+``` js
+while (condition)
+  statement
+```
+
+Example:
+
+``` js
+let i = 10
+while (i >= 0){ // While i is >= 0, the statement will execute
+  console.log(`Countdown: ${i}`) // First log value of i
+  i-- // Then decrement i by 1
+}
+console.log('Blast off!') // When i drops below 0, log 'Blast Off'
+```
