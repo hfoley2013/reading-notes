@@ -1,9 +1,13 @@
 # Programming with JavaScript
 
 [MDN Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+
 [JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)
+
 [JavaScript Operators](https://www.w3schools.com/js/js_operators.asp)
+
 [Expressions & Operators - Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+
 [Functions - Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
 ## Control Flow
