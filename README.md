@@ -31,4 +31,11 @@
     * [Lab: 05 - Design Webpages w/ CSS](https://hfoley2013.github.io/hello-world/)
   * Class 6
     * [Read: 06 - Dynamic Webpages w/ JavaScript](https://hfoley2013.github.io/reading-notes/102/javascript-basics)
-    * [Lab: 06 - Activate Webpages w/ JavaScript] (Link to site to be added)
+    * [Lab: 06 - Activate Webpages w/ JavaScript](https://hfoley2013.github.io/hello-world/)
+* **Day 4: Programming w/ JavaScript; Operators and Loops in JavaScript**
+  * Class 7
+    * [Read: 07 - Programming w/ JavaScript](https://hfoley2013.github.io/reading-notes/102/programming-with-js)
+    * [Lab: 07 - Programming w/ JavaScript] (link to be added)
+  * Class 8
+    * [Read: 08 - Operators and Loops](https://hfoley2013.github.io/reading-notes/102/operators-loops)
+    * [Lab: 08 - Operators and Loops] (link to be added)
