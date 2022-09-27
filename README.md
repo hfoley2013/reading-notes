@@ -41,3 +41,7 @@
     * [Lab: 08 - Operators and Loops](https://hfoley2013.github.io/hello-world/)
 * **Day 5: Career Coaching & 201 Entrance Exam Review**
   * [Review: 201 Entrance Exam](https://hfoley2013.github.io/reading-notes/102/201-entrance-exam-review)
+
+### 201: Foundations of Software Development
+
+* **Day 1: [*Specifics to be added*]**
