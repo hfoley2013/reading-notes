@@ -44,4 +44,20 @@
 
 ### 201: Foundations of Software Development
 
-* **Day 1: [*Specifics to be added*]**
+* [**Things I Want to Know More About**](https://hfoley2013.github.io/reading-notes/201/things-to-know-more-about)
+* **Day 1: How the Web Works; HTML Basics; JavaScript Basics; Website Design**
+  * Pre-Work
+    * Getting Started
+      * [Getting Started](add url to note section)
+      * [How the Web Works](add url to note section)
+      * [Website Design & Process](add url to note section)
+      * [JavaScript Basics](add url to note section)
+    * Introduction to HTML
+      * [Intro to HTML](add url to note section)
+      * [Getting Started w/ HTML](add url to note section)
+      * [HTML Document Structure](add url to note section)
+      * [Metadata in HTML](add url to note section)
+    * Miscellaneous
+      * [How to Start to Design a Website](add url to note section)
+      * [Semantics](add url to note section)
+      * [What is JavaScript](add url to note section)
