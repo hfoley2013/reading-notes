@@ -9,12 +9,12 @@
 
 ## Assignment
 
-- [ ] What is an HTML attribute?
-- [ ] Describe the Anatomy of an HTMl element.
-- [ ] What is the Difference between `<article>` and `<section>` element tags?
-- [ ] What Elements does a “typical” website include?
-- [ ] How does metadata influence Search Engine Optimization?
-- [ ] How is the `<meta>` HTML tag used when specifying metadata?
+* [ ] What is an HTML attribute?
+* [ ] Describe the Anatomy of an HTMl element.
+* [ ] What is the Difference between `<article>` and `<section>` element tags?
+* [ ] What Elements does a “typical” website include?
+* [ ] How does metadata influence Search Engine Optimization?
+* [ ] How is the `<meta>` HTML tag used when specifying metadata?
 
 ## Intro to HTML
 
