@@ -49,17 +49,16 @@
   * Class 1
     * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class-01)
     * Pre-Work
-      * Getting Started
-        * [Getting Started]
-        * [How the Web Works]
-        * [Website Design & Process]
-        * [JavaScript Basics]
-      * Introduction to HTML
-        * [Intro to HTML]
-        * [Getting Started w/ HTML]
-        * [HTML Document Structure]
-        * [Metadata in HTML]
-      * Miscellaneous
-        * [How to Start to Design a Website]
-        * [Semantics]
-        * [What is JavaScript]
+      * [Getting Started](https://hfoley2013.github.io/reading-notes/201/getting-started)
+        * How the Web Works
+        * Website Design Process
+        * JavaScript Basics
+      * [Introduction to HTML](https://hfoley2013.github.io/reading-notes/201/intro-html)
+        * Intro to HTML
+        * Getting Started / HTML
+        * HTML Document Structure
+        * Metadata in HTML
+      * [Miscellaneous](https://hfoley2013.github.io/reading-notes/201/d1-miscellaneous)
+        * How to Start to Design a Website
+        * Semantics
+        * What is JavaScript?
