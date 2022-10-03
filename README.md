@@ -47,18 +47,30 @@
 * [**Things I Want to Know More About**](https://hfoley2013.github.io/reading-notes/201/things-to-know-more-about)
 * **Day 1: How the Web Works; HTML Basics; JavaScript Basics; Website Design**
   * Class 1
-    * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class-01)
+    * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class01/class-01)
     * Pre-Work
-      * [Getting Started](https://hfoley2013.github.io/reading-notes/201/getting-started)
+      * [Getting Started](https://hfoley2013.github.io/reading-notes/201/class01/getting-started)
         * How the Web Works
         * Website Design Process
         * JavaScript Basics
-      * [Introduction to HTML](https://hfoley2013.github.io/reading-notes/201/intro-html)
+      * [Introduction to HTML](https://hfoley2013.github.io/reading-notes/201//class01/intro-html)
         * Intro to HTML
         * Getting Started / HTML
         * HTML Document Structure
         * Metadata in HTML
-      * [Miscellaneous](https://hfoley2013.github.io/reading-notes/201/d1-miscellaneous)
+      * [Miscellaneous](https://hfoley2013.github.io/reading-notes/201/class01/d1-miscellaneous)
         * How to Start to Design a Website
         * Semantics
         * What is JavaScript?
+* **Day 2: Basics of HTML, CSS & JS**
+  * Class 2
+    * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class02/class-02)
+    * Readings
+      * [HTML](add link)
+        * HTML Text Fundamentals
+        * HTML Advanced Text Formatting
+      * [CSS](addlink)
+        * How CSS is Structured
+      * [JS](addlink)
+        * JavaScript Basics
+        * Making Decisions in Your Code - Conditionals

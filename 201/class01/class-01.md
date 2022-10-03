@@ -208,6 +208,7 @@
         <summary>
         <time>
     ```
+
 * **JavaScript**
   * JavaScript is a lightweight interpreted scripting language that allows you to interact with a webpage
   * Allows the website to store values inside variables and use them to provide outputs to the user or change the webpage
