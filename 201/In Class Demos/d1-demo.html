@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Welcome to 201!</title>
+  <style>
+    body {
+      background-color: beige;
+    }
+
+    li {
+      color: purple;
+    }
+
+    h1 {
+      background-color: aliceblue;
+      color: blue;
+      font-style: italic;
+    }
+  </style>
+</head>
+
+<body>
+  <header style="color: black; font-weight: bold; font-size: large;">Welcome to Code Fellows!</header>
+  <main>
+    <h1>Class 1 Lab</h1>
+    <h3 style="color: red">What you will learn at Code Fellows.</h3>
+    <ul>
+      <li>HTML</li>
+      <li style="color: green;">CSS</li>
+      <li>JavaScript</li>
+    </ul>
+
+    <section id="initial_questions">
+      <h3>The questions that I asked you:</h3>
+      <ul>
+        <p style="color: blue; background-color: aliceblue; font-weight: bold;">What is your name?</p>
+        <p style="color: red; background-color: antiquewhite; font-weight: bold;">Where are you visiting from?</p>
+        <p style="color: pink; background-color: grey; font-weight: bold;">Are you excited about Code Fellows?</p>
+        <p style="color: orange; background-color: black; font-weight: bold;">Are you scared or intimidated?</p>
+      </ul>
+    </section>
+    <img
+      src="https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      alt="HTML Coding Example" width=400px display />
+  </main>
+  <footer>
+    By Code Fellows
+  </footer>
+  <script>
+    alert('Hello!');
+    let userName = prompt('What is your name?');
+    while (userName.length < 1) {
+      userName = prompt('Please enter your name.')
+    }
+    console.log(`username: ${userName}`);
+
+    let userLocation = prompt('Where are you visiting from?');
+    while (userLocation.length < 1) {
+      userLocation = prompt('Please enter a location.')
+    }
+    console.log(`userLocation: ${userLocation}`);
+
+    let userExcitement = prompt('Are you excited about Code Fellows? (Yes / No)');
+    let excitementResponse = null;
+
+    while ((userExcitement != 'Yes') && (userExcitement != 'No')) {
+      userExcitement = prompt("Please answer 'Yes' or 'No'.");
+    }
+    console.log(`userExcitement: ${userExcitement}`);
+
+    if (userExcitement != 'No') {
+      excitementResponse = "I'm excited too!";
+    } else {
+      excitementResponse = "Don't worry, coding will be fun!";
+    }
+
+    let userFear = prompt('Are you scared or intimidated? (Yes/No)');
+    let fearResponse = null;
+    while ((userFear != 'Yes') && (userFear != 'No')) {
+      userFear = prompt("Please answer 'Yes' or 'No'.");
+    }
+    console.log(`userFear: ${userFear}`);
+    if (userFear == 'No') {
+      fearResponse = "Glad you're not scared. It's just sitting in front of a computer!";
+    } else {
+      fearResponse = "Don't be scared! It's just sitting in front of a computer!";
+    }
+    alert(`Hello, ${userName} from ${userLocation}! ${excitementResponse} ${fearResponse}`);
+  </script>
+</body>
+
+</html>

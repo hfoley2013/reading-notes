@@ -213,3 +213,40 @@
   * Allows the website to store values inside variables and use them to provide outputs to the user or change the webpage
   * Common use of JS is to dynamically modify HTML and CSS to update a user interface via the Document Object Model API
   * Added into the HTML document via the `<script>` tag
+
+### In-Class Notes
+
+* HTML Document Basic Structure
+  * This is all you need to for a valid HTML document:
+
+  ``` html
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Welcome to 201!</title>
+  </head>
+  <body>
+
+  </body>
+  </html>
+  ```
+  
+  * `<head>` and `<body>` are the only child tags of the `<html>` tag
+  * Everything displayed to the user is in the `<body>` tag
+  * Everything in the `<head>` tag is used by the browser
+
+
+* Images
+  * Syntax
+  
+  ``` html
+  <img src"file.jpg" alt"a picture" />
+  ```
+
+  * Images require the `src` and `alt` to be a valid tag
+    * Without `src`, there is no source image
+    * Without `alt`, there is nothing to display to the user if the image fails to load
+  * Recommend that `width` or `height` attributes be added to the image to prevent layout shift while webpage loads
+* CSS
+  * **Inline styles will *override* any general styles added to the document!**
