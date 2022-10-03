@@ -52,7 +52,7 @@
 ## What is JavaScript
 
 * JavaScript is a lightweight interpreted scripting language that allows you to interact with a webpage
-* Allows the website to store values inside variables amd use them to provide outputs to the user or change the webpage
+* Allows the website to store values inside variables and use them to provide outputs to the user or change the webpage
 * Common use of JS is to dynamically modify HTML and CSS to update a user interface via the Document Object Model API
 * Added into the HTML document via the `<script>` tag
 * Using `addEventListener`
