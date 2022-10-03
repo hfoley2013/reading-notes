@@ -15,7 +15,11 @@
   * `<sub>` can be used to generate subscripts for text
   * `<sup>` generates superscripts that can be used for adding references/footnotes into a document
 * **When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?**
-  * 
+  * You need to add `<title>` into the element to have it show the full text of the abbreviation
+  ``` html
+  <p>
+    We use <abbr title="Hypertext Markup Language">HTML</abbr> to structure our web documents.
+  </p>
 
 ### Learn CSS
 
