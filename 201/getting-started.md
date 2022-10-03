@@ -106,4 +106,4 @@
     | Number | Number. | `let myVar = 10;` |
     | Boolean | True/False. Used with keywords `true` & `false` | `let myVar = true;` |
     | Array | Multiple values stored in a single reference. Signified by `[]` | `let myVar = ['Bob','Steve','John'];` <br> Refer to each member of the array like this: `myVar[0], myVar[1], etc.` |
-    | Object | Everything in JS is an object. | `let myVar = document.querySelector('h1');
+    | Object | Everything in JS is an object. | `let myVar = document.querySelector('h1'); |

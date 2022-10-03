@@ -55,20 +55,52 @@
   * Sidebar `<aside>`
   * Footer `<footer>`
 * **How does metadata influence Search Engine Optimization?**
+  * Specifying a description that includes keywords relating to the content of your page is useful as it has the potential to make your page appear higher in relevant searches performed in search engines
 * **How is the `<meta>` HTML tag used when specifying metadata?**
+  * Placed within the `<head>` tag
+  * `<meta>` can be modified with additional attributes that specify language, character sets used, names, and descriptions useful in SEO
 
 ### How to Start to Design a Website
 
 * **What is the first step to designing a Website?**
+  * Answer the question: **"What *exactly* do I want to accomplish?"**
+  * Then you can begin to wireframe it
 * **What is the most important question to answer when designing a Website?**
+  * "What *exactly* do I want to accomplish?"
 
 ### Semantics
+
 * **Why should you use an `<h1>` element over a `<span>` element to display a top level heading?**
+  * You should use the `<h1>` tag because:
+    * It is preprogrammed to give you a first level header, so you don't need to type as much code
+    * It provides semantic meaning to your code
+      * The meaning being: "This is a top level header"
+  * If you only used the `<span>` element, it would take considerably more code to format the text as a header
+    * Even though the final outputs would look the same, you lose the meaning or relative importance of the text when you do not use the `<h1>` tag
+      * This will slow down auditing by third parties
 * **What are the benefits of using semantic tags in our HTML?**
+  * It gives a readily identifiable means by which we can quickly understand the layout of our documents and how each element interrelates
 
 ### What is JavaScript?
+
 * **Describe 2 things that *require* JavaScript in the Browser?**
+  * Dynamically modify HTML and CSS to update their appearance to a user via the Document Object Model API
+  * Display a graphic or text back to the user based on user inputs
 * **How can you add JavaScript to an HTML document?**
+  * `<script>`
+    * Internal
+    
+      ``` html
+      <script>
+        // JavaScript goes in here
+      </script>
+      ```
+
+    * External
+      
+      ``` html
+      <script src"script.js"></script>
+      ```
 
 ## Reading Notes Summary
 
@@ -151,4 +183,33 @@
 
 ### Miscellaneous
 
-* [Notes to add]
+* **Project Ideation**
+  * What *exactly* do I want to accomplish?
+  * How will a website help me reach my goals?
+  * What needs to be done, and in what order, to reach my goals?
+* **Semantics**
+  * Semantics refers to the *meaning* of code
+    * What effect does running that line of JS have?
+    * What purpose or role does that HTML element have?
+  * Semantic Elements
+
+    ``` html
+        <article>
+        <aside>
+        <details>
+        <figcaption>
+        <figure>
+        <footer>
+        <header>
+        <main>
+        <mark>
+        <nav>
+        <section>
+        <summary>
+        <time>
+    ```
+* **JavaScript**
+  * JavaScript is a lightweight interpreted scripting language that allows you to interact with a webpage
+  * Allows the website to store values inside variables amd use them to provide outputs to the user or change the webpage
+  * Common use of JS is to dynamically modify HTML and CSS to update a user interface via the Document Object Model API
+  * Added into the HTML document via the `<script>` tag

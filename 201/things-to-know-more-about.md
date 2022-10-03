@@ -1,3 +1,5 @@
 # Things I Want to Know More About
 
-* [Notes to be added as topics encountered]
+* **Just-in-time compiling**
+* **Use of JavaScript to call APIs**
+* **Document Object Model API**

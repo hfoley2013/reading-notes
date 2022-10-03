@@ -13,8 +13,8 @@
 * [X] Describe the Anatomy of an HTML element.
 * [X] What is the Difference between `<article>` and `<section>` element tags?
 * [X] What Elements does a “typical” website include?
-* [ ] How does metadata influence Search Engine Optimization?
-* [ ] How is the `<meta>` HTML tag used when specifying metadata?
+* [X] How does metadata influence Search Engine Optimization?
+* [X] How is the `<meta>` HTML tag used when specifying metadata?
 
 ## Intro to HTML
 
@@ -89,9 +89,10 @@
 * Typically contains `<link>` and `<title>` elements to connect to CSS stylesheets and name the browser tab
 * Use `charset="utf-8"` to use the universal character code
   * This allows your site to render using just about any character set in any human language
-* Adding author and description
+* Adding name and description
   * `<name>` specifies the type of meta element it is; what type of info it contains
   * `<content>` specifies the actual meta content
+  * Specifying a description that includes keywords relating to the content of your page is useful as it has the potential to make your page appear higher in relevant searches performed in search engines
   ``` html
   <meta name="author" content="Harper Foley" />
   ```
