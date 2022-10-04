@@ -67,10 +67,10 @@
     * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class02/class-02)
     * Readings
       * HTML
-        * [HTML Text Fundamentals](addlink)
-        * [HTML Advanced Text Formatting](addlink)
+        * [HTML Text Fundamentals](https://hfoley2013.github.io/reading-notes/201/class02/html-text-fundamentals)
+        * [HTML Advanced Text Formatting](https://hfoley2013.github.io/reading-notes/201/class02/html-advanced-text-formatting)
       * CSS
-        * [How CSS is Structured](addlink)
+        * [How CSS is Structured](https://hfoley2013.github.io/reading-notes/201/class02/how-css-is-structured)
       * JS
-        * [JavaScript Basics](addlink)
-        * [Making Decisions in Your Code - Conditionals](addlink)
+        * [JavaScript Basics](https://hfoley2013.github.io/reading-notes/201/class02/javascript-basics-2)
+        * [Making Decisions in Your Code - Conditionals](https://hfoley2013.github.io/reading-notes/201/class02/making-decisions-in-your-code-conditionals)
