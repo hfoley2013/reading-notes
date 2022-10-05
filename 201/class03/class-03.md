@@ -110,3 +110,7 @@
     console.log(`Countdown: ${i}`);
   } console.log('Blast Off!');
   ```
+
+## In Class Notes
+
+* [addNotes]
