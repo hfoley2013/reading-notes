@@ -104,3 +104,25 @@ h2 {
 ### [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 ### [Making Decisions in Your Code - Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+
+
+## In Class Notes
+
+### Data Types
+
+* Basic Data Types
+  * Number
+    * In JS, a number is the numeric data type
+    * Can be a decimal or negative
+  * String
+    * Sequence of characters to represent text
+  * Boolean
+    * Logical data type
+    * Shows `0` or `1`; `true` or `false`
+  * Array
+  * Undefined
+    * Value that is assigned to variables when no other value is assigned
+      * Ex: `let userName` will be `undefined`
+  * Null
+    * The `none`, `nothing`, `null` type
+      * Ex: `let userName = null` sets userName to nothing
