@@ -71,9 +71,11 @@
         * [HTML Advanced Text Formatting](https://hfoley2013.github.io/reading-notes/201/class02/html-advanced-text-formatting)
       * CSS
         * [How CSS is Structured](https://hfoley2013.github.io/reading-notes/201/class02/how-css-is-structured)
-      * JS
+      * JavaScript
         * [JavaScript Basics](https://hfoley2013.github.io/reading-notes/201/class02/javascript-basics-2)
         * [Making Decisions in Your Code - Conditionals](https://hfoley2013.github.io/reading-notes/201/class02/making-decisions-in-your-code-conditionals)
+      * Git
+        * [How to Write a Git Commit Message](https://hfoley2013.github.io/reading-notes/201/class02/git-commit-message)
 * **Day 3: HTML Lists, Control Flow w/ JS, & the CSS Box Model**
   * Class 3
     * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class03/class-03)
