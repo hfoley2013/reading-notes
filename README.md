@@ -81,8 +81,8 @@
     * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class03/class-03)
     * Readings
       * HTML
-        * [Ordered & Unordered Lists](https://hfoley2013.github.io/reading-notes/201/class03/class-03/html-ordered-unordered-lists)
+        * [Ordered & Unordered Lists](https://hfoley2013.github.io/reading-notes/201/class03/html-ordered-unordered-lists)
       * CSS
-        * [The Box Model](https://hfoley2013.github.io/reading-notes/201/class03/class-03/css-box-model)
+        * [The Box Model](https://hfoley2013.github.io/reading-notes/201/class03/css-box-model)
       * JavaScript
-        * [Arrays, Operators, Conditionals, & Loops](https://hfoley2013.github.io/reading-notes/201/class03/class-03/js-arrays-operators-conditionals-loops)
+        * [Arrays, Operators, Conditionals, & Loops](https://hfoley2013.github.io/reading-notes/201/class03/js-arrays-operators-conditionals-loops)
