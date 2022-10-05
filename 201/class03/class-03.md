@@ -113,4 +113,5 @@
 
 ## In Class Notes
 
-* [addNotes]
+* Check which elements are default `in-line` vs `block`
+  * Ref: [W3 Blocks](https://www.w3schools.com/html/html_blocks.asp)
