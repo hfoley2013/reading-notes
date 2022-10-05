@@ -22,7 +22,7 @@
     We use <abbr title="Hypertext Markup Language">HTML</abbr> to structure our web documents.
   </p>
   ```
-
+  
   <blockquote>
     <p>
      We use <abbr title="Hypertext Markup Language">HTML</abbr> to structure our web documents.
@@ -104,7 +104,6 @@ h2 {
 ### [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 ### [Making Decisions in Your Code - Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
-
 
 ## In Class Notes
 

@@ -74,3 +74,13 @@
       * JS
         * [JavaScript Basics](https://hfoley2013.github.io/reading-notes/201/class02/javascript-basics-2)
         * [Making Decisions in Your Code - Conditionals](https://hfoley2013.github.io/reading-notes/201/class02/making-decisions-in-your-code-conditionals)
+* **Day 3: HTML Lists, Control Flow w/ JS, & the CSS Box Model**
+  * Class 3
+    * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class03/class-03)
+    * Readings
+      * HTML
+        * [Ordered & Unordered Lists](https://hfoley2013.github.io/reading-notes/201/class03/class-03/html-ordered-unordered-lists)
+      * CSS
+        * [The Box Model](https://hfoley2013.github.io/reading-notes/201/class03/class-03/css-box-model)
+      * JavaScript
+        * [Arrays, Operators, Conditionals, & Loops](https://hfoley2013.github.io/reading-notes/201/class03/class-03/js-arrays-operators-conditionals-loops)
