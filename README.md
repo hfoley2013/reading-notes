@@ -86,3 +86,16 @@
         * [The Box Model](https://hfoley2013.github.io/reading-notes/201/class03/css-box-model)
       * JavaScript
         * [Arrays, Operators, Conditionals, & Loops](https://hfoley2013.github.io/reading-notes/201/class03/js-arrays-operators-conditionals-loops)
+* **Day 4: HTML: Creating Hyperlinks, CSS: Normal Flow & Positioning, JS: Functions**
+  * Class 4
+    * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class04/class-04)
+    * Readings
+      * HTML
+        * [Creating Hyperlinks](https://hfoley2013.github.io/reading-notes/201/class04/html-hyperlinks)
+      * CSS
+        * [Normal Flow](https://hfoley2013.github.io/reading-notes/201/class04/css-normal-flow)
+        * [Positioning](https://hfoley2013.github.io/reading-notes/201/class04/css-positioning)
+      * JavaScript
+        * [Functions](https://hfoley2013.github.io/reading-notes/201/class04/js-functions)
+      * Miscellaneous
+        * [6 Reasons for Pair Programming](https://hfoley2013.github.io/reading-notes/201/class04/misc-two-pair-programming)
