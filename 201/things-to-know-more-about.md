@@ -4,3 +4,4 @@
 * **Use of JavaScript to call APIs**
 * **Document Object Model API**
 * **CSS Best Practices & Most Common Effects**
+* **Why use fat arrow notation?**
