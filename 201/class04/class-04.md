@@ -55,3 +55,21 @@
   * Engaged Collaboration
     * I do admit that it is easy to get distracted when programming alone
     * Having another person working on the same project with me would likely keep me on task to a higher degree and result in earlier completion times
+
+## In Class Notes
+
+* CSS
+  * `position: relative;`
+    * Element will move relative to its original position
+  * `position: absolute;`
+    * Element will move within the viewport on the screen
+* Pair Programming
+  1. Fork your partner's code
+  2. Clone your forked repo to your computer
+  3. Wrap Question 1 in a function
+  4. ACP the change
+     * Repeat 3 & 4 for each question
+  5. On GitHub, create a pull request (PR)
+  6. Partner approves the changes and "merges" the code
+  7. Partner `pulls` the changes down to their computer
+  
