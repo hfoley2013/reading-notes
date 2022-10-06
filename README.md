@@ -99,3 +99,11 @@
         * [Functions](https://hfoley2013.github.io/reading-notes/201/class04/js-functions)
       * Miscellaneous
         * [6 Reasons for Pair Programming](https://hfoley2013.github.io/reading-notes/201/class04/misc-two-pair-programming)
+* **Day 5: Images, Color, Text**
+  * Class 5
+    * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class05/class-05)
+  * Readings
+    * HTML
+      * [HTML Media](https://hfoley2013.github.io/reading-notes/201/class05/html-images)
+    * CSS
+      * [CSS: Color & Styling Text Elements](https://hfoley2013.github.io/reading-notes/201/class05/css-color-styling)
