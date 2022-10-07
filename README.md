@@ -4,7 +4,7 @@
 
 ## Get to Know Harper
 
-* [About Me](https://hfoley2013.github.io/reading-notes/bio)
+* [About Me](https://hfoley2013.github.io/codefellows-201-about-me/)
 * [My Portfolio](https://github.com/hfoley2013)
 
 ## Table of Contents
