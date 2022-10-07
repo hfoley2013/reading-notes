@@ -22,9 +22,26 @@
 ### CSS
 
 * **Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.**
+  * Foreground colors are the colors of the lines used to draw an element on the page
+  * Background color is the color of the space that the lines of the element are drawn on
+  * Think of foreground colors as the color of your pen and background colors as the color of your paper
 * **Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?**
+  * I would start by understanding the colors associated with their website
+    * What's the topic of the site?
+    * Does that topic have associated colors?
+    * Is there a mood the owner wants to project?
+  * With that info, I could choose a base color and build accent colors around it
+  * I would use brighter colors to attract the eyes of the reader towards anything that is important to the owner, especially monetization elements like pay buttons
+  * I would use accent color to highlight any links contained in the text
+  * I would also experiment with the color palette a bit to see which combination of colors is less stressful on the eyes
 * **What should you consider when choosing fonts for an HTML document?**
+  * dd
 * **What do `font-size`, `font-weight`, and `font-style` do to HTML text elements?**
+  * `font-size`: changes the size of the font
+  * `font-weight`: changes how thick the font is
+  * `font-style`: sets it normal, *italic*, or oblique
 * **Describe two ways you could add spacing around the characters displayed in an `h1` element.**
+  * `letter-spacing` could be increased to increase the space between individual letters
+   `word-spacing` could be increased to increase the space between words in the header
 
 ## In Class Notes
