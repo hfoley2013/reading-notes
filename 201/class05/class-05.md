@@ -45,3 +45,30 @@
    `word-spacing` could be increased to increase the space between words in the header
 
 ## In Class Notes
+
+### Code Review
+
+* General Order in a JS File
+  * Declare global variables
+  * Declare functions
+  * Executable code - the code that run
+    * I.E. invoke the functions
+* Specific notes for the Lab 2/3/4 code:
+  * Invoke the functions in the .js file
+    * Invoking the functions with `<script>` in html file is ok given what we've learned so far, but we will be adding `.eventListener` functions into our code to make it execute based on events in the browser
+* *Helper Functions* can be added to the JS script to be invoked by other functions if they recycle code
+  * Specific example from Lab:
+    * For correct responses code block used in each question set is:
+
+    ``` js
+    // if correct >>
+    alert(`Correct! ${responseAlert[i]}`);
+    countCorrect = countCorrect + 1;
+
+    //Those two lines could be placed into a single function like so:
+    function correct() {
+      alert(`Correct! ${responseAlert[i]}`);
+      countCorrect = countCorrect + 1;
+    }
+    // This function could then be referenced by each branch of the 'correct' logic tree
+    ```
