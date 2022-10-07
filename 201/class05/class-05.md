@@ -72,3 +72,36 @@
     }
     // This function could then be referenced by each branch of the 'correct' logic tree
     ```
+
+### Array Methods
+
+* `pop()`
+  * Remove an item at the end of an array
+* `shift()`
+  * Removes first element from an array
+  * Will shift the index of all items in the array
+  * Requires extra processing power and, therefore, will slow down the code
+* `push()`
+  * Adds an element to the end of an array
+* `unshift()`
+  * Adds an element to the front of an array
+  * Will shift the index of all items in the array
+  * Requires extra processing power and, therefore, will slow down the code
+
+### CSS
+
+* Keep boxes without content from collapsing when using `display: float;` by:
+
+  ``` css
+  .clearfix:after {
+    content:"";
+    clear: both;
+    display: table;
+  }
+  ```
+
+  * This is a hack to keep box dimensions the same after applying the `float` property and removing the box from the normal flow
+* Use wildcard `*` at the top of CSS files to make global changes
+* `margin: auto;` centers a box in the middle of the viewport
+* `margin` has values go clockwise starting from the top
+  * `margin: top right bottom left;`

@@ -107,3 +107,4 @@
       * [HTML Media](https://hfoley2013.github.io/reading-notes/201/class05/html-images)
     * CSS
       * [CSS: Color & Styling Text Elements](https://hfoley2013.github.io/reading-notes/201/class05/css-color-styling)
+  * [Partner Power Hour: Wes Reid](https://hfoley2013.github.io/reading-notes/201/class05/weekly-partner-power-hour-1)
