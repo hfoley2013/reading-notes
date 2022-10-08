@@ -21,6 +21,7 @@
 ### Give me an example of a time you had to make a difficult decision.
 
 * Situation
+  * [Keep or cut under-performer on a team]
 * Task
 * Action
 * Result
@@ -28,6 +29,7 @@
 ### Describe a situation when you had many projects due at the same time. What steps did you take to get them all done?
 
 * Situation
+  * [Time as IB analyst]
 * Task
 * Action
 * Result
