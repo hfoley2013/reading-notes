@@ -48,4 +48,38 @@ const dog = {
 
 ### In Class Notes
 
-* [addNotes]
+* Arrays are a *fragile* datatype
+  * There is no way to keep track of what each value corresponds to
+  * This is fine for lists of a single variable like `Top 10 Vacation Spots`
+
+    ``` js
+    let Top10VacationSpots = [
+      'Disney Land',
+      'New York', 
+      'Disney World',
+      'etc.'
+    ];
+    ```
+  
+  * This is not ideal when tracking a series of values related to a specific variable
+
+    ``` js
+    // Dog's info as an array
+    const dog = [
+      'Spot',
+      2,
+      'white with black spots',
+    ]
+    // Hard to tell what each value in the array corresponds to
+
+    // Dog's info as an object
+    const dog = {
+      name: 'Spot',
+      age: 2,
+      color: 'white with black spots',
+      humanAge: function (){
+      console.log(`${this.name} is ${this.age*7} in human years`);
+      }
+    };
+    // Much easier to see what each value relates to through the key,value pair
+    ```
