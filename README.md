@@ -119,3 +119,6 @@
       * [JavaScript Object Basics](https://hfoley2013.github.io/reading-notes/201/class06/js-object-basics)
     * Document Object Manipulation
       * [Introduction to the DOM](https://hfoley2013.github.io/reading-notes/201/class06/intro-to-dom)
+    * Miscellaneous
+      * [How to Solve Programming Problems](https://hfoley2013.github.io/reading-notes/201/class06/how-to-solve-programming-problems)
+      * [JavaScript Primitive Values & Object References](https://hfoley2013.github.io/reading-notes/201/class06/js-primitive-values)
