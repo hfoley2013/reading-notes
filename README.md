@@ -112,3 +112,10 @@
     * CSS
       * [CSS: Color & Styling Text Elements](https://hfoley2013.github.io/reading-notes/201/class05/css-color-styling)
   * [Partner Power Hour: Wes Reid](https://hfoley2013.github.io/reading-notes/201/class05/weekly-partner-power-hour-1)
+* **Day 6: JavaScript Objects, Intro to the DOM**
+  * Class 6
+    * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class06/class-06)
+    * JavaScript Objects
+      * [JavaScript Object Basics](https://hfoley2013.github.io/reading-notes/201/class06/js-object-basics)
+    * Document Object Manipulation
+      * [Introduction to the DOM](https://hfoley2013.github.io/reading-notes/201/class06/intro-to-dom)
