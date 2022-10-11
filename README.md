@@ -122,3 +122,10 @@
     * Miscellaneous
       * [How to Solve Programming Problems](https://hfoley2013.github.io/reading-notes/201/class06/how-to-solve-programming-problems)
       * [JavaScript Primitive Values & Object References](https://hfoley2013.github.io/reading-notes/201/class06/js-primitive-values)
+* **Day 7: Object-Oriented Programming, HTML Tables**
+  * Class 7
+    * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class07/class-07)
+    * [Domain Modeling](https://hfoley2013.github.io/reading-notes/201/class07/domain-modeling)
+    * [HTML Table Basics](https://hfoley2013.github.io/reading-notes/201/class07/html-table-basics)
+    * [Introducing Constructors](https://hfoley2013.github.io/reading-notes/201/class07/constructors)
+    * [Object Prototypes Using a Constructor](https://hfoley2013.github.io/reading-notes/201/class07/object-prototypes)
