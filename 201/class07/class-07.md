@@ -36,3 +36,51 @@
   * Prototypes are a mechanism by which JS objects inherit features from other objects
   * When you try to access a property of an object and it can't be found in the object itself, the prototype is searched for the property. If it still can't be found, the prototypes prototype gets searched (and so on, and so on, until the property or `null` is returned)
   * This would be like trying to find the nationality of a child if it wasn't documented in their records. The prototype would reference back to the parent of the child and look for `nationality`. If it couldn't find it in the parents' records, it would look at the grandparents, and keep going back until it ran out of ancestor prototypes to search or it found an answer.
+
+### In Class Notes
+
+#### Code Review: Mob Build Salmon Cookies JavaScript
+
+* Order of OPS:
+  * `'use strict1';`
+  * Declare a variable driven by the `id` of where you want your object to appear:
+    * In our example, we are simply creating the list for Seattle and the element id is `seattleList` so:
+
+    ``` js
+    let seattleList = document.getElementId('seattleList`);
+    ```
+  
+  * Declare an array of the hours since this is determines the hours we will generate customer data for:
+
+    ``` js
+    let hour = ['6am', ..., '7pm'];
+    ```
+  
+  * Declare the Seattle store object:
+
+    ``` js
+    let seattle = {
+      name: 'Seattle',
+      min: 23,
+      max: 65,
+      avg: 6.3,
+      dailyTotal: 0,
+      cookiesSoldEachHour: [],
+      getRandomCustomers: function() {
+        return Math.floor(Math.random() * (this.max - this.min + 1) + this.min);
+        // Rounds down random number. Constructed to be inclusive of max & min
+      }
+      let listItemSeattle: document.createElement('li'),
+      // We want the Seattle times & cookies per hour to be posted as list elements on the webpage
+    }
+
+### Constructors
+
+``` js
+
+function Constructor(parameter1, parameter2, ...parameterNth) {
+  this.parameter1 = parameter1;
+  this.parameter2 = parameter2;
+  this.parameterNth = parameterNth;
+}
+```
