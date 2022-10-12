@@ -25,3 +25,24 @@
   * Another tool for the toolbelt
   * My goals is to create DRY code that is easily auditable with built in flexibility to respond dynamically to changes in HTML content as my webpage is updated
   * Flexbox provides a powerful structure to accomplish this goal
+
+## In Class Notes
+
+* `flex` should be applied to the **container (parent element)**, *not* the items themselves
+* Default `flex-direction` is `row`
+  * Can switch using `column`: will stack item on top of each other in a column
+* `justify-content` aligns the flex items within the container
+* Place holder link
+  * https://place-hold.it/300x375/ddd
+    * Link above is a grey 300x375 px box. Can change pixel layout and color code to make any box.
+* Link Google Fonts with `src` attribute within the tag for the headers for Salmon Cookies
+* Can use `lorem` within HTML to generate placeholder text directly
+* To keep all content centered within the display window, use the below:
+
+  ```css
+  main {
+    margin: auto;
+  }
+  ```
+  
+* `overflow: auto;` will create a scroll bar
