@@ -133,3 +133,8 @@
   * Class 8
     * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class08/class-08)
   * [CSS Layout](https://hfoley2013.github.io/reading-notes/201/class08/css-flexbox)
+* **Day 9: HTML Forms and JavaScript Events**
+  * Class 9
+    * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class09/class-09)
+  * [HTML Forms](https://hfoley2013.github.io/reading-notes/201/class09/html-forms)
+  * [Introduction to JavaScript Events](https://hfoley2013.github.io/reading-notes/201/class09/js-events)
