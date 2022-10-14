@@ -68,3 +68,9 @@
 * Use Font Awesome to get icons
   * Link to Font Awesome in `<head>`
   * Insert a `<span class="sr-only">HoverMessage</span>` within the `<i>` tag to announce the info to a Screen Reader
+
+### Partner Power Hour #2
+
+* Name: Sharina Stubbs
+* Company: Adobe
+* Topic: Intro to DevOps & Automation
