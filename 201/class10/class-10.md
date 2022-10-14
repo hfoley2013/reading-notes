@@ -64,3 +64,7 @@
 ### Which Image Type Should I Use?
 
 ![Image Selection](201/images/image-type-selection.png)
+
+* Use Font Awesome to get icons
+  * Link to Font Awesome in `<head>`
+  * Insert a `<span class="sr-only">HoverMessage</span>` within the `<i>` tag to announce the info to a Screen Reader
