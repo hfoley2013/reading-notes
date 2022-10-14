@@ -35,3 +35,32 @@
   * A section in the Debugger that shows you what code was executed to get to the current line
 
 ## In Class Notes
+
+### Code Review
+
+* DRY out code by creating a helper function
+  * function `createElement(element, content)`
+
+
+### Debugging
+
+* [When Stuck, Talk to the Duck](https://www.mindovermachines.com/when-you-get-stuck-talk-to-the-duck/)
+  * Talk it out to yourself and explain it your rubber duck
+* Lots of `console.log`
+* Google syntax issues
+* Ping classmates and talk it out; get a second set of eyes
+* Compare changes to previous version of the code on GitHub that was working
+
+## Image Files
+
+* Pixel based
+  * Bunch of little dots clumped together that at a distance look like an image
+  * Great for photographs
+* Vector based
+  * Match makes the image
+  * Great for line art used
+  * Doesn't lose definition as you change size
+
+### Which Image Type Should I Use?
+
+![Image Selection](201/images/image-type-selection.png)
