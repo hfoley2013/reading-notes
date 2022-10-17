@@ -1,4 +1,4 @@
-# # Class 10: Reading Notes & Assignment Summary
+# Class 10: Reading Notes & Assignment Summary
 
 ## References
 

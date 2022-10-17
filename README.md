@@ -143,3 +143,9 @@
     * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class10/class-10)
   * [Troubleshooting JavaScript](https://hfoley2013.github.io/reading-notes/201/class10/js-troubleshooting)
   * [The JavaScript Debugger](https://hfoley2013.github.io/reading-notes/201/class10/js-debugger)
+* **Day 11: Audio/Video Content; Intro to Grid; Responsive Images**
+  * Class 11
+    * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class11/class-11)
+  * [Audio and Video in HTML](https://hfoley2013.github.io/reading-notes/201/class11/audio-video)
+  * [Guide to Grid](https://hfoley2013.github.io/reading-notes/201/class11/guide-to-grid)
+  * [Responsive Images](https://hfoley2013.github.io/reading-notes/201/class11/responsive-images)
