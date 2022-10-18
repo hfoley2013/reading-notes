@@ -38,3 +38,7 @@
   * For both Salmon Cookies, you could use a time series line chart to show the trends in cookie demand over the course of each of the 14 hours each store operates. Additionally, you could use a bar graph to display total sales of each store to easily see which stores are outperforming. 
   * For Odd Duck, a simple bar graph collecting votes and views for each product could be telling. You'd want to find the products that not only had the most votes, but also had the highest votes / view ratio.
   For example, if the "Shark" product only received 10 votes across all users, but it was only show 10 times due to the randomness of the algorithm, then you'd want to research demand for that product further since everyone who saw it voted for it against other products.
+
+## In Class Notes
+
+* Using `includes()` method
