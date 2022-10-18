@@ -1,4 +1,4 @@
-# Class 11: Reading Notes & Assignment Summary
+# Class 12: Reading Notes & Assignment Summary
 
 ## Assignments
 

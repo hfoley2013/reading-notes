@@ -152,3 +152,5 @@
 * **Day 12: Chart.js, Canvas**
   * Class 1
     * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class12/class-12)
+  * [JavaScript Canvas](https://hfoley2013.github.io/reading-notes/201/class12/js-canvas)
+  * [Chart.js](https://hfoley2013.github.io/reading-notes/201/class12/chart-js)
