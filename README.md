@@ -149,3 +149,6 @@
   * [Audio and Video in HTML](https://hfoley2013.github.io/reading-notes/201/class11/audio-video)
   * [Guide to Grid](https://hfoley2013.github.io/reading-notes/201/class11/guide-to-grid)
   * [Responsive Images](https://hfoley2013.github.io/reading-notes/201/class11/responsive-images)
+* **Day 12: Chart.js, Canvas**
+  * Class 1
+    * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class12/class-12)
