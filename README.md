@@ -157,3 +157,9 @@
 * **Day 13: Local Storage**
   * Class 13
     * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class13/class-13)
+  * [Local Storage](https://hfoley2013.github.io/reading-notes/201/class13/local-storage)
+* **Day 14: CSS Transitions and Animations**
+  * Class 14
+    * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class14/class-14)
+  * [CSS Transform](https://hfoley2013.github.io/reading-notes/201/class14/css-transform)
+  * [CSS Transitions and Animations](https://hfoley2013.github.io/reading-notes/201/class14/css-transitions-animations)
