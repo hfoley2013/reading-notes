@@ -163,3 +163,9 @@
     * [Reading Notes & Assignments Summary](https://hfoley2013.github.io/reading-notes/201/class14/class-14)
   * [CSS Transform](https://hfoley2013.github.io/reading-notes/201/class14/css-transform)
   * [CSS Transitions and Animations](https://hfoley2013.github.io/reading-notes/201/class14/css-transitions-animations)
+
+### 301: Intermediate Software Development
+
+* [**Things I Want to Know More About**](https://hfoley2013.github.io/reading-notes/301/things-to-know-more-about)
+* **Pre-Work: 301**
+  * [Dive Into React]
