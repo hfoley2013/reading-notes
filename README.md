@@ -168,4 +168,6 @@
 
 * [**Things I Want to Know More About**](https://hfoley2013.github.io/reading-notes/301/things-to-know-more-about)
 * **Pre-Work: 301**
-  * [Dive Into React]
+  * [Dive Into React](https://hfoley2013.github.io/reading-notes/301/dive-into-react)
+  * [ES6 Arrow Functions](https://hfoley2013.github.io/reading-notes/301/es6-arrow-functions)
+  * [ES6 Class](https://hfoley2013.github.io/reading-notes/301/es6-class)
