@@ -13,7 +13,7 @@
 
 * [Interview Questions & Responses](https://hfoley2013.github.io/reading-notes/interview-questions)
 
-### 102: Introduction to Software Development
+### Code 102: Introduction to Software Development
 
 * **Day 1: Learning Markdown; The Coder's Computer; Professional Competencies**
   * Class 1
@@ -46,7 +46,7 @@
 * **Day 5: Career Coaching & 201 Entrance Exam Review**
   * [Review: 201 Entrance Exam](https://hfoley2013.github.io/reading-notes/102/201-entrance-exam-review)
 
-### 201: Foundations of Software Development
+### Code 201: Foundations of Software Development
 
 * [**Things I Want to Know More About**](https://hfoley2013.github.io/reading-notes/201/things-to-know-more-about)
 * **Day 1: How the Web Works; HTML Basics; JavaScript Basics; Website Design**
@@ -164,10 +164,13 @@
   * [CSS Transform](https://hfoley2013.github.io/reading-notes/201/class14/css-transform)
   * [CSS Transitions and Animations](https://hfoley2013.github.io/reading-notes/201/class14/css-transitions-animations)
 
-### 301: Intermediate Software Development
+### Code 301: Intermediate Software Development
 
 * [**Things I Want to Know More About**](https://hfoley2013.github.io/reading-notes/301/things-to-know-more-about)
 * **Pre-Work: 301**
   * [Dive Into React](https://hfoley2013.github.io/reading-notes/301/dive-into-react)
   * [ES6 Arrow Functions](https://hfoley2013.github.io/reading-notes/301/es6-arrow-functions)
   * [ES6 Class](https://hfoley2013.github.io/reading-notes/301/es6-class)
+  * [Intro to React](https://hfoley2013.github.io/reading-notes/301/intro-to-react)
+
+### Code 401: Advanced Software Development in Python
