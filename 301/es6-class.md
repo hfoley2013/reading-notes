@@ -13,3 +13,9 @@
 ## Assignment
 
 * Complete the [Assignment](https://codefellows.github.io/code-301-guide/curriculum/prework/classes/LAB.html)
+
+## Notes
+
+### Constructor Function & Prototypes
+
+* Objects
