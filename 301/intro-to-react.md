@@ -55,8 +55,11 @@
 ### What is Props and How to Use in React
 
 * **What is “props” short for?**
+  * Properties
 * **How are props used in React?**
+  * They are used to pass properties from parent components to child components, which allows you to make your code more dynamic
 * **What is the flow of props?**
+  * Unidirectional (one-way), from parent to child
 
 ## Notes
 
@@ -108,3 +111,19 @@
     * Again, because each component is independent, you can conduct maintenance without interfering with the rest of the system
   * **Independent**
     * Because each component can be developed and deployed independently of the others, can speed up development and deployment and increase productivity of the development process
+
+### Props in React
+
+* Props = properties
+  * `props` is a special keyword in React used for **passing data from one component to another**
+  * This data is passed down in *one direction* in a *read-only* format (i.e. it cannot be changed by the child components)
+* `props` will return as an ***object***
+  * Will need to use **string interpolation** to render the text and **dot(.) notation** to access the specific property of the object that you want to render
+
+  ```jsx
+  <ChildComponent text={"I'm a child component!"} />
+
+  const ChildComponent = (props) => {
+    return <p>{props.text}</p>;
+  }; // returns "I'm a child component!"
+  ```
