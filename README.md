@@ -172,5 +172,7 @@
   * [ES6 Arrow Functions](https://hfoley2013.github.io/reading-notes/301/es6-arrow-functions)
   * [ES6 Class](https://hfoley2013.github.io/reading-notes/301/es6-class)
   * [Intro to React](https://hfoley2013.github.io/reading-notes/301/intro-to-react)
+* **Day 1: React**
+  * [Class 1: React](https://hfoley2013.github.io/reading-notes/301/class1/react.md)
 
 ### Code 401: Advanced Software Development in Python
