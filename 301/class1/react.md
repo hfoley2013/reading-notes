@@ -22,7 +22,7 @@
   * **NOTE:** `<fileName>` does *NOT* include the `.js` ending
 * React likes to keep all components inside of **one component**
   * Can wrap all components inside a `<div>` to eliminate errors in VS Code
-    * **NOTE:** This can create a series of unwanted `<div>`'s 
+    * **NOTE:** This can create a series of unwanted `<div>`'s
   * To avoid having extra or unwanted `<div>`'s, you can "fool" React by wrapping all components in empty tags `<>`:
     * `<>` `</>`
 * React component names should start with an `Uppercase`, while html elements stay `lowercase`
