@@ -26,3 +26,6 @@
   * To avoid having extra or unwanted `<div>`'s, you can "fool" React by wrapping all components in empty tags `<>`:
     * `<>` `</>`
 * React component names should start with an `Uppercase`, while html elements stay `lowercase`
+* CSS files can be imported like this:
+  * `import` `<fileName>`;
+  * That's it
