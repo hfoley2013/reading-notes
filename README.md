@@ -173,6 +173,6 @@
   * [ES6 Class](https://hfoley2013.github.io/reading-notes/301/es6-class)
   * [Intro to React](https://hfoley2013.github.io/reading-notes/301/intro-to-react)
 * **Day 1: React**
-  * [Class 1: React](https://hfoley2013.github.io/reading-notes/301/class1/react.md)
+  * [Class 1: React](https://hfoley2013.github.io/reading-notes/301/class1/react)
 
 ### Code 401: Advanced Software Development in Python
