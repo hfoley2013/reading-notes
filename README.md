@@ -174,5 +174,7 @@
   * [Intro to React](https://hfoley2013.github.io/reading-notes/301/intro-to-react)
 * **Day 1: React**
   * [Class 1: React](https://hfoley2013.github.io/reading-notes/301/class1/react)
+* **Day 2: States & Props**
+  * [Class 2: States & Props](https://hfoley2013.github.io/reading-notes/301/class2/states-props)
 
 ### Code 401: Advanced Software Development in Python
