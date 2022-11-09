@@ -1,6 +1,6 @@
 # Passing Functions as Props
 
-## Readings 
+## Readings
 
 * [React Docs - lists & keys](https://reactjs.org/docs/lists-and-keys.html)
 * [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
@@ -101,7 +101,51 @@
 * The spread operator is `...`
 * It passes the values of an array into a function as *separate arguments**
 
-### How to Pass Functions Between Components
+### Passing Functions Between Components
 
 * First define the function at the parent level
 * The parent function can then be passed to the child component using `this.props.<functionName>`
+
+## In Class Notes
+
+### For lab
+  
+* set state `heart` in `App.js`
+* create method to update heart in `App.js`
+* pass `state: heart` to `Header.js` 
+* pass the method to `HornedBeast.js` components
+* The state can be passed to child using a constructor created above the `render()` function in `App.js`
+* Pass the state to the `Header` component by adding `hearts={this.state.hearts}` to the `<Header>` component in `App.js`
+* Next, in `Header.js`, reference the state via `this.props.hearts` where ever you want to render the value of `hearts`
+* The `addHearts` method needs to be added to the `<Header>` component in `App.js` as well
+  * Invoke the function in the `<Header>` with `{this.addHearts}`
+  
+  ```jsx
+  addHearts = () => {
+    this.setState({
+      hearts: this.state.hearts + '<heartImg>'
+    });
+  };
+  ```
+  
+  * Modals
+    * Need to add `<Modal/>` to `App.js`
+      * Remember to import the `Modal` from Bootstrap into `App.js`
+    * Will need two handle functions to open & close the modal
+      
+      ```jsx
+      handleCloseModal = () => {
+        this.setState({
+          isModalShown: false
+        });
+      };
+
+      handleOpenModal= () => {
+        this.setState({
+          isModalShown: true
+        });
+      };
+      ```
+      
+    * `<Modal>` will take a `show` and `onHide` property that holds these functions:
+      * `<Modal show={this.state.isModalShown} onHide={this.handleCloseModal}>`
