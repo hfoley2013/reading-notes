@@ -88,3 +88,5 @@
   * The piece of information that you are using will be **handled inside the component only**
 * Use `props` when:
   * The piece of information that you are using is **handled by a parent component**
+
+## In-Class Notes
