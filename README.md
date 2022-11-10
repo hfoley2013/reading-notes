@@ -178,5 +178,7 @@
   * [Class 2: States & Props](https://hfoley2013.github.io/reading-notes/301/class2/states-props)
 * **Day 3: Passing Functions as Props**
   * [Class 3: Passing Functions as Props](https://hfoley2013.github.io/reading-notes/301/class3/functions-as-props)
+* **Day 4: React and Forms**
+  * [Class 4: React & Forms](https://hfoley2013.github.io/reading-notes/301/class4/forms)
 
 ### Code 401: Advanced Software Development in Python
