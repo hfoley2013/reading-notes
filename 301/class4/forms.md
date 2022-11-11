@@ -68,4 +68,7 @@
   
 ## In Class Notes
 
-* [addNotes]
+* Feature for today's lab: Sort Images by Keyword and/or Horns
+  * Sort options will be presented to the user via a dropdown menu built with a `<form>` element
+* Need to import `ListGroup` from React
+  * Add individual filter items with `ListGroup.Items`
