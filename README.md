@@ -182,5 +182,7 @@
   * [Class 4: React & Forms](https://hfoley2013.github.io/reading-notes/301/class4/forms)
 * **Day 5: Putting it All Together**
   * [Class 5: Thinking in React](https://hfoley2013.github.io/reading-notes/301/class5/thinking-in-react)
+* **Day 6: Node.js**
+  * [Class 6: Node.js](https://hfoley2013.github.io/reading-notes/301/class6/node-js)
 
 ### Code 401: Advanced Software Development in Python
