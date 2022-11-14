@@ -48,3 +48,9 @@
 * **How does pair programming work?**
   * One person "drives" the code (actually types)
   * One person "navigates" (tells the driver what to type)
+
+## Notes
+
+### Intro to Node.js
+
+* [addNotes]
