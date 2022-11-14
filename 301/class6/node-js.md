@@ -59,7 +59,7 @@
 
 ## In Class Notes
 
-#### Lab 6: API Calls
+### Lab 6: API Calls
 
 ![API Call Flow](./api-call.png)
 
