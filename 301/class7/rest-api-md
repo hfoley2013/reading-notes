@@ -8,12 +8,19 @@
 ## Questions
 
 * **Who is Roy Fielding?**
+  * Wrote HTTP, how we access documents on the web
 * **Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?**
 * **What is the HTTP protocol that Fielding and his friends created?**
+  * HyperText Transfer Protocol
+  * It tells the browser where to look to get documents off of servers and brings them into the user's browser
 * **What does a `GET` do?**
+  * Gets the resource requested
 * **What does a `POST` do?**
+  * Adds something from one system onto another on each request
 * **What does `PUT` do?**
+  * Creates a new resource or replaces the existing resource with the request
 * **What does `PATCH` do?**
+  * Partially modifies a resource
 
 ## Notes
 
