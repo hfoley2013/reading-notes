@@ -184,5 +184,7 @@
   * [Class 5: Thinking in React](https://hfoley2013.github.io/reading-notes/301/class5/thinking-in-react)
 * **Day 6: Node.js**
   * [Class 6: Node.js](https://hfoley2013.github.io/reading-notes/301/class6/node-js)
+* **Day 7: REST API**
+  * [Class 7: REST](https://hfoley2013.github.io/reading-notes/301/class7/rest-api)
 
 ### Code 401: Advanced Software Development in Python
