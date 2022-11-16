@@ -42,3 +42,11 @@
   * `201 (Created)`
 * **What status code does a successful `DELETE` request return?**
   * `204 (No Content)`
+
+## Notes
+
+* TODO
+
+## In Class Notes
+
+* TODO
