@@ -186,5 +186,7 @@
   * [Class 6: Node.js](https://hfoley2013.github.io/reading-notes/301/class6/node-js)
 * **Day 7: REST API**
   * [Class 7: REST](https://hfoley2013.github.io/reading-notes/301/class7/rest-api)
+* **Day 8: API**
+  * [Class 8: API](https://hfoley2013.github.io/reading-notes/301/class8/api-design)
 
 ### Code 401: Advanced Software Development in Python
