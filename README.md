@@ -190,5 +190,7 @@
   * [Class 8: API](https://hfoley2013.github.io/reading-notes/301/class8/api-design)
 * **Day 9: Functional Programming**
   * [Class 9: Functional Programming](https://hfoley2013.github.io/reading-notes/301/class9/functional-programming)
+* **Day 10: In Memory Storage**
+  * [Class 10: In Memory Storage](https://hfoley2013.github.io/reading-notes/301/class10/in-memory-storage)
 
 ### Code 401: Advanced Software Development in Python

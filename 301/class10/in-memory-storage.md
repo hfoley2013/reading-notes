@@ -5,7 +5,6 @@
 * [Understanding the JavaScript Call Stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
 * [JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 
-
 ## Questions
 
 ### Understanding the JavaScript Call Stack
@@ -88,3 +87,4 @@
 
   * `try{}` contains the code you want to execute
   * `catch{}` contains the code you want to execute if there is an error
+  
