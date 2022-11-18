@@ -87,4 +87,42 @@
 
   * `try{}` contains the code you want to execute
   * `catch{}` contains the code you want to execute if there is an error
-  
+
+## Warm-Up
+
+* `require(express)` needs `''` around `express` => `require('express)`
+* `username` needs `/`
+* `req` & `res` not referenced; change to `request` & `response`
+* `res.send(userInfo)`
+* `const userInfo {}` has no object info inside
+
+## Lab 10: Cache
+
+```js
+let cache = {
+  variable-name: {
+    data: <the data sent to the front end>
+    timeStamp: <time we put data in the cache>}
+}
+```
+
+* Within the API call function on the back end, create a key,value pair to send to the cache
+  * `let key = searchedValue + 'Data';`
+* Using the key created, add a property to the cache with the value of the response data we are sending to the front end
+* Also create a conditional statement within the call function to evaluate 1.) is there a cache and 2.) is it recent enough
+
+  ```js
+  if (cache[key] && cache[timeStamp]) {
+    //if data is cached && recent enough, return the cache data
+  } else {
+    //make a new request to the API
+    //put data into cache
+  }
+  ```
+
+  ```js
+  cache[key] = {
+    data: <data-variable>,
+    timeStamp: Date.now()
+  }
+  ```
