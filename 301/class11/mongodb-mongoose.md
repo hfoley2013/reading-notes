@@ -107,3 +107,73 @@ What is a relational database?**
 ### SQL vs. NoSQL Video
 
 * TODO
+
+## In Class Notes
+
+### Code Review
+
+* `try` and `Promise`
+  * `try` says, "try this block of code"
+  * `Promise` says, "I'm expecting data"
+    * `Promise.resolve(<variableName>)` will accept the data if the code works
+    * `Promise.reject(<variableName>)` will throw an error if the data doesn't meet the required conditions
+    * **NOTE:** You need `.resolve` and `.reject` so that there is not a *hanging promise* in your code, which will cause issues with your code
+
+### Lab 11
+
+* Will need to create a `schema` in order to do the lab
+* What is a database?
+  * Place to store data
+  * Two Types:
+    1. Relational
+       * SQL
+    2. Non-Relational
+       * MongoDB
+* Non-Relational Databases
+  * Basically JSON data
+    * A big object of unrelated data
+  * A collection of key-value pairs
+  * Without structure, you have more flexibility in creating the database, but you cannot guarantee what data is store in the data base
+    * Not great for complex queries since you could miss data
+* Giving structure to Non-Relational DBs
+  * We will use `ODM` **(Object Document Mapping)**
+    * `Mongoose` as an ODM
+      * Gives us the ability to create data models that use a specific scheme
+        * *Schema* = diagram or template of what the data will look like
+        * *Model* = what we need to implement to access our data
+* Why use a non-relational database if we have to basically impose a relational structure on it?
+  * Can do queries using JS (i.e. we don't need to learn another language (SQL))
+* Installing `Mongoose`
+  * `npm i mongoose`
+  * Install into the project folder
+* Remember, to bring in `Mongoose` to the `server.js` file with `const mongoose = require('mongoose')`
+* Defining the `schema` within the appropriate component on the backend
+  
+  ```js
+  const { Schema } = mongoose;
+
+  const dataSchema = new Schema {
+    key1: value1,
+    key2: value2,
+    key3: value3
+  };
+  ```
+
+* Add this code block to the `server.js` file for a proof of life that `Mongoose` is connected and working properly:
+
+  ```js
+  // add validation to confirm we are wired up to our mongo DB
+  const db = mongoose.connection;
+  db.on('error', console.error.bind(console, 'connection error:'));
+  db.once('open', function () {
+    console.log('Mongoose is connected');
+  });
+  ```
+
+* On MongoDB Atlas site:
+  * Zero out the IP Address: `0.0.0.0/0`
+  * Go to `Database` => `Connect` => `Connect your application`
+  * Driver = Node.js, Version = 4.1 or later
+  * Add `DB_URL` to `.env` file
+    * Will need to modify the URL from MongoDB after the `/` and before the `?` to add the name of the database and replace `<password>` with the password taken from below:
+      * Go to `Database Access` and setup a password => `Update User Info`
