@@ -177,3 +177,9 @@ What is a relational database?**
   * Add `DB_URL` to `.env` file
     * Will need to modify the URL from MongoDB after the `/` and before the `?` to add the name of the database and replace `<password>` with the password taken from below:
       * Go to `Database Access` and setup a password => `Update User Info`
+* CRUD
+  * Create
+    * Adds to the database
+  * Read
+  * Update
+  * Delete
