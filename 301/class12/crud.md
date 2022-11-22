@@ -39,6 +39,13 @@
 * **What is the difference between `PUT` and `PATCH`?**
   * `PATCH` updates only the information that is passed
   * `PUT` updates all the information at once
+* **How do you make a default value in a schema?**
+  * Add `default: <defaultValue>` to the schema
+* **What does a `500` error status code mean?**
+  * There was a server error
+* **What is the difference between a status `200` and a status `201`?**
+  * 200 = "OK", request was good
+  * 200 = "OK", request was successful and a resource was created as a result
 
 ## Notes
 
