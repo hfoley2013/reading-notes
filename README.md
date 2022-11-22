@@ -193,6 +193,8 @@
 * **Day 10: In Memory Storage**
   * [Class 10: In Memory Storage](https://hfoley2013.github.io/reading-notes/301/class10/in-memory-storage)
 * **Day 11: MongoDB**
-  * [Class 10: MongoDB](https://hfoley2013.github.io/reading-notes/301/class11/mongodb-mongoose)
+  * [Class 11: MongoDB](https://hfoley2013.github.io/reading-notes/301/class11/mongodb-mongoose)
+* **Day 12: CRUD**
+  * [Class 12: CRUD](https://hfoley2013.github.io/reading-notes/301/class12/crud)
 
 ### Code 401: Advanced Software Development in Python
