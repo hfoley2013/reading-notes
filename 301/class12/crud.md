@@ -95,3 +95,56 @@
        * Create a `routes` folder
        * Define your routes: `const <routeName> = require('./routes/<endpointName>')`
      * You can now begin configuring routes in their own components
+
+## In Class Notes
+
+### Code Challenge: REGEX, Part 2
+
+* Find actual `()`
+  * Need the `\` before each `()`
+    * `/\(206\)-123` selects `(206)` from a list of phone numbers
+* Adding `OR` criteria with REGEX
+  * `|` is the `OR` equivalent
+    * Wrap `OR` criteria in `()` if there is an additional pattern to find after your conditional patterns
+  * Type in as `/<pattern1>|<pattern2>/gm`
+
+## Lab 12: CRUD
+
+* Will be adding in CRUD to the books database
+  * Need to be able to:
+    * `Create` new books
+    * `Read` existing books' data
+    * `Update` existing books status
+    * `Delete` existing books from DB
+* `Update`
+  * Will need to add a ROUTE that allows us to add books
+    * `app.post('/books', postBooks)`
+  * Create function to post the the books
+
+    ```js
+    async function postBooks(req, res, next) {
+      try{
+        await Book.create(req.body);
+      } catch(err) {
+        next(err);
+      }
+    }
+    ```
+
+  * Add middleware
+
+  * `DELETE`
+    * Need to add a `/:id` parameter to the delete route so that it knows which book to delete
+      * The `id` can be accessed with `req.params.id`
+      * Use `.findByIdAndRemove()`
+
+    ```js
+    async function deleteBooks(req, res, next) {
+      try{
+        away Book.findByIdAndDelete(req.params.id);
+        res.send('Book deleted');
+      } catch(err) {
+        next(err);
+      }
+    }
+    ```
