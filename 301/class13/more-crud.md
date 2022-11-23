@@ -38,4 +38,46 @@
 
 ## In Class Notes
 
-* TODO
+### Lab 13: Update Book Details
+
+* `PUT`
+  * Add a `form` to update a book
+  * Update form calls `putBooks` and updates database
+* Route
+  * `app.put('books/:id', putBooks)`
+* Function
+
+  ```js
+  async function putBooks(req, res, next) {
+    try {
+      let id = req.params.id;
+      let updatedBooksData = req.body;
+
+      let updatedBooks = await Books.findByIdAndUpdate(id, updatedBooksData, {new: true, overwrites: true});
+      res.status(200).send(updatedBooks);
+
+    } catch(error) {
+      next(error);
+    }
+  }
+  ```
+
+  ```js
+  updatedBooks = async (bookToUpdate) => {
+    try {
+      let url = `${process.env.REACT_APP_SERVER}/books/${bookToUpdate._id}`;
+      let updatedBookObj = await axios.put(url, bookToUpdate);
+
+      let updatedBookArr = this.state.books.map(book => {
+        return book._id === bookToUpdate._id 
+          ? updatedBookObj.data
+          : book;
+      });
+      this.setState({
+        books: updatedBookArr
+      });
+    } catch(error) {
+      console.log('Error: ', error.response.data);
+    }
+  }
+  ```
