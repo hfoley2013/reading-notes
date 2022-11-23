@@ -196,5 +196,7 @@
   * [Class 11: MongoDB](https://hfoley2013.github.io/reading-notes/301/class11/mongodb-mongoose)
 * **Day 12: CRUD**
   * [Class 12: CRUD](https://hfoley2013.github.io/reading-notes/301/class12/crud)
+* **Day 13: More CRUD**
+  * [Class 13: More CRUD](https://hfoley2013.github.io/reading-notes/301/class13/more-crud)
 
 ### Code 401: Advanced Software Development in Python
