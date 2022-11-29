@@ -103,4 +103,53 @@
 
 ## In Class Notes
 
-* TODO
+### Lab: OAuth
+
+* Got to Auth0 website and create account
+* Will work in `Application` and `Documentation`
+* In `Applications`, name application `Can of Books` and create a `Single Page Web App`
+* Go to `Settings` to get your domain, client secret key, client ID, etc.
+* Need to install `Auth0` in React front end
+  * Follow documentation on required dependencies and libraries to install
+* Create a `.env` file to create:
+  * `REACT_APP_SERVER_URL=`
+  * `REACT_APP_DOMAIN=`
+  * `REACT_APP_CLIENT_ID=`
+  * `REACT_APP_REDIRECT_URI=`
+* Create functional component files:
+  * `LoginButton.js`
+  * `LogoutButton.js`
+  * `Profile.js`
+  * Copy the code provided by Auth0 into these files
+  * Import `Button` from React into the `LoginButton` and `LogoutButton` files and update the `<button>` tags to be Bootstrap components `<Button>`
+* Inside `App.js`, import Auth0:
+  * `import { withAuth0 } from '@auth0/auth-0-react'`
+  * **NOTE:** `withAuth0` is for use on App level; `useAuth0` is for functional components
+  * When exporting from `App.js`:
+    * `export default withAuth0(App);`
+  * Add ternary to `App.js` to show a login vs. logout button:
+
+    ```js
+    {this.props.auth0.isAuthenticated ? <LogoutButton/> : <LoginButton/>}
+    ```
+
+* Create a `Content.js` file to add in the content that the user can expect to see if they successfully login
+* Get the token from Auth0:
+  * `const res = await this.props.auth0.getIdTokenClaims();`
+  * `const jwt = res.__raw;`
+  * Send `config` object to make our call to the API using the token `jwt`:
+    * i.e. `let results = await axios(config)`
+    * **NOTE:** `jwt` = JSON web token ('J Watt')
+    * **NOTE:** `jwks` = JSON Web Key Set ('Ja-Wicks)
+      * `jwks` key can be brought over from the Auth0 `Advanced Settings` section of the `Application` => `Settings` page
+
+    ```js
+    let config = {
+      method: 'get',
+      baseURL: 'process.env.REACT_APP_SERVER_URL',
+      url: '/books',
+      header: {
+        "Authorization": `Bearer ${jwt}`
+      }
+    }
+    ```
