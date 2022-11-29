@@ -200,6 +200,7 @@
   * [Class 13: More CRUD](https://hfoley2013.github.io/reading-notes/301/class13/more-crud)
 * **Day 14: Diversity in Tech**
   * [Class 14: Diversity in Tech](https://hfoley2013.github.io/reading-notes/301/class14/diversity)
-
+* **Day 15: Authentication**
+  * [Class 15: Authentication](https://hfoley2013.github.io/reading-notes/301/class15/authentication)
 
 ### Code 401: Advanced Software Development in Python
