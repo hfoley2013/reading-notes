@@ -204,3 +204,7 @@
   * [Class 15: Authentication](https://hfoley2013.github.io/reading-notes/301/class15/authentication)
 
 ### Code 401: Advanced Software Development in Python
+
+* [**Things I Want to Know More About**](https://hfoley2013.github.io/reading-notes/401/things-i-want-to-know-more-about)
+* **Pre-Work: 301**
+  * TODO
