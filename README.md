@@ -208,3 +208,4 @@
 * [**Things I Want to Know More About**](https://hfoley2013.github.io/reading-notes/401/things-i-want-to-know-more-about)
 * **Pre-Work: 301**
   * [Learn SQL](https://hfoley2013.github.io/reading-notes/401/prework/learn-sql)
+  * [Getting Started with Python](https://hfoley2013.github.io/reading-notes/401/prework/getting-started-with-python)
