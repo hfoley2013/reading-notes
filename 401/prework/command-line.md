@@ -14,7 +14,7 @@
 
 ### The Command Line
 
-  * What is it, how does it work and how do I get to one.
+* What is it, how does it work and how do I get to one.
 
 ### Basic Navigation
 
@@ -22,7 +22,7 @@
 
 ### More About Files
 
-  * Find out some interesting characteristics of files and directories in a Linux environment.
+* Find out some interesting characteristics of files and directories in a Linux environment.
 
 ### Manual Pages
 
