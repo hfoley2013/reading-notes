@@ -88,3 +88,61 @@
   * Common for binary search algos that using having logic to find a value
   * Doubling or 100x the data set doesn't have a great effect on processing time
   * Logarithms are extremely efficient when dealing with large data sets
+
+### Python Names and Values
+
+* Names refer to values
+  * `x = 23` => x is assigned the value of 23
+* Code executes in order from top to bottom
+
+  ```py
+  x = 23
+  y = x
+  x = 12
+  print(y) //=> y = 23
+  print(x) //=> x = 12
+  ```
+
+* Values live until no references
+  * Once all references are gone, the value disappears
+* **Assignment never copies data**
+  * This means that Named values cannot be reassigned!
+    * I.E. if you want to create a copy of a list by changing the name of the reference, you will only assign the original list to the new name. Any modifications done to the original list will be reflected in the new reference as well
+  * The above is know as ***Mutable aliasing***
+    * Occurs when:
+      * A mutable value
+      * More than one name
+      * The value changes
+      * All names see the change!
+* ***Immutables values can't alias***
+  * Immutable types: `ints, floats, strings, tuples`
+* "Change" is unclear
+  * Changing an int: `rebinding`
+    * `x = x + 1`
+    * In this case, we are *rebinding* the value of `x` to the value of `x + 1`
+  * Changing a list: `mutating`
+    * `nums.append(7)`
+    * The list is *mutated* to append `7` to the end of the list
+  * Cannot mutate an `int`: `int` is **immutable**
+* Mutable and immutable are assigned the same way
+  * Assignment is the same for **all** values
+  * Aliasing can make it seem different
+* References can be more than just names
+  * List elements
+  * Object attributes
+  * Dict keys and values
+  * **Anything on the left side of an assignment**
+* For loops
+  * In a `for` loop, we constantly assign new values to `x` as we go through the sequence
+* Function arguments are assignments
+  * Local variables inside a function will disappear once the function returns if the variable isn't passed to the global scope
+  * You can assign a return value to a name in the global scope by assigning the entire function to the name
+* ***Make a new list***
+* Any name can refer to any value at any time
+* Name have no type, values have no scope
+* Python is neither call-by-value or call-by-reference, it is call-by-assignment
+  * When you call a value you are assigning it to the name used to call it
+
+### How to Setup an Awesome Python Environment
+
+* TODO
