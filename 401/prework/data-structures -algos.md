@@ -11,7 +11,12 @@
 ## Discussion Questions
 
 * **What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?**
+  * What are you going to be doing with the data?
+  * Depending on exactly what data manipulation you need to do, you can chose a more effective data structure
+  * Next big thing to consider, how is the data structured and how large is the data set
 * **How can we ensure that we’ll avoid an infinite recursive call stack?**
+  * You have to tell the function to exit
+    * You must provide a base case that allows the function to exit the loop
 
 ## Notes
 
