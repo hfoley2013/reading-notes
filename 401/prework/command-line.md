@@ -65,9 +65,9 @@
   * Options
     * `-p` = make parent directories as needed
     * `-v` = makes mkdir tell us what it is doing (i.e. it will say `created directory: <name>`)
+* `rmdir [options] <Directory Name>` = delete a directory
 * `touch <file name>` = create a file
 * `cp [options] <source> <destination>` = copy this source and move it to destination
-
-### Cheat Sheet
-
-* A quick reference for the main points covered in this tutorial.
+* `mv [options] <source> <destination>` = move a file from source to destination
+  * **NOTE:** Can use `mv` to rename a file if the destination is the same directory as the source
+* `rm [options] <file>` = remove file
