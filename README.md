@@ -212,5 +212,6 @@
   * [Git Practice](https://hfoley2013.github.io/reading-notes/401/prework/git-practice)
   * [Growth Mindset](https://hfoley2013.github.io/reading-notes/401/prework/growth-mindset)
   * [The Command Line](https://hfoley2013.github.io/reading-notes/401/prework/command-line)
+  * [Data Structures and Algorithms](https://hfoley2013.github.io/reading-notes/401/prework/data-structures-algos)
 * **Day 1: Intro to 401 Python**
   * [Class 1: Pain & Suffering, Guide to Big O Notation, Names & Values in Python, Awesome Python Environment](https://hfoley2013.github.io/reading-notes/401/class1/intro-class)
