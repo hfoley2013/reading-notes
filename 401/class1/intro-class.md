@@ -145,4 +145,152 @@
 
 ### How to Setup an Awesome Python Environment
 
-* TODO
+* **The Interpreter**
+  * Allows you to switch between programs that require different versions of Python or 3rd party modules seamlessly
+  * Can use Pyenv
+    * `curl https://pyenv.run | bash`
+
+    ```
+    export PATH="~/.pyenv/bin:$PATH"
+    eval "$(pyenv init -)"
+    eval "$(pyenv virtualenv-init -)"
+    ```
+
+  * For Ubuntu machine, you will need the following:
+
+  ```
+  sudo apt-get install build-essential libsqlite3-dev sqlite3 bzip2 libbz2-dev zlib1g-dev libssl-dev openssl libgdbm-dev libgdbm-compat-dev liblzma-dev libreadline-dev libncursesw5-dev libffi-dev uuid-dev
+  ```
+
+  * To install Python run:
+    * `pyenv install VERSION_YOU_WOULD_LIKE_TO_INSTALL`
+
+* Dependency Management
+  * [Poetry](https://poetry.eustace.io/)
+    * Helps with the following:
+      * Manage your projects’ dependencies
+      * Separate your projects through virtual environments
+      * Build both applications as well as libraries without headaches
+
+    * Install via `curl`
+    ```
+    curl -sSL 
+    https://raw.githubusercontent.com/sdispater/poetry/master/get-poetry.py | python
+    ```
+
+    * Install via `pip`
+
+    ```
+    # Create a virtual environment called tools that is based on 3.7.5
+    pyenv virtualenv 3.7.5 tools 
+    # Install poetry into the tools virtual env
+    pyenv activate tools
+    pip install poetry 
+    # Check installed poetry version
+    poetry --version
+    # Leave the virtual env 
+    pyenv deactivate 
+    # This does not work yet 
+    poetry --version
+    # Add your tools virtual env to the globally available ones
+    pyenv global 3.7.5 tools
+    # Now this works and you can start using poetry
+    poetry --version
+    ```
+  
+  * Configure so that the virtual environment is created *inside* your project folder
+
+    ```
+    # That seems to be peotry prior to 1.0.0
+    poetry config settings.virtualenvs.in-project true
+    # That is poetry since 1.0.0
+    poetry config virtualenvs.in-project true
+    ```
+  
+  * Initializing a new project
+
+    ```
+    # Initialze a new project
+    poetry new dsexample 
+    cd dsexample
+    # Add modules and create virtual environment.
+    poetry add pandas=0.25 fastapi --extras all
+    # As an example of how you could add a git module
+    poetry add tf2-utils --git git@github.com:Shawe82/tf2-utils.git
+    ```
+
+* Consistent Formatting and Readability
+  * [Black](https://black.readthedocs.io/en/stable/)
+    * Automates code formatting so you can avoid manually doing it
+    * Installation
+
+      ```
+      # We add black as a development dependency with --dev as we don't
+      # need it when it comes to production
+      poetry add --dev black=19.3b0
+      # Assume we are inside the current toplevel dsexample folder
+      poetry run black .
+      ```
+
+* Type-Correctness
+  * [mypy](https://mypy.readthedocs.io/)
+    * Static type checker for python code, that finds errors before they appear
+      * Can check that the type of the variable is the same as what you expect
+    * Install
+
+      ```
+      # We add mypy as a development dependency with --dev as we don't
+      # need it when it comes to production
+      poetry add --dev mypy
+      # Assume we are inside the current toplevel dsexample folder
+      poetry run mypy .
+      ```
+
+    * Config
+      * [Documentation](https://mypy.readthedocs.io/en/latest/config_file.html)
+      * Configure it to only warn you about the things you are interested in by adding a mypy.ini file to your project
+
+* Automate the Automation
+  * [Pre-Commit](https://pre-commit.com/)
+    * Allows you to auto-run the tools installed above
+    * Will fail if the tools above run into any errors and will not commit the code base
+  * Install
+
+  ```
+  # Install pre-commit into the tools virtual env
+  pyenv activate tools
+  pip install pre-commit 
+  # Leave the virtual env 
+  pyenv deactivate
+  # As we have already added the tool venv, it will work directly
+  pre-commit --version
+  ```
+
+  * To use:
+    * First, add a config file called .pre-commit-config.yaml to the top-level folder of your project
+      * In that file, you configure all the hooks that should run
+    * Example
+
+      ```
+      repos:
+      -   repo: https://github.com/ambv/black
+          rev: 19.3b0
+          hooks:
+          - id: black
+            language_version: python3.7
+      -   repo: https://github.com/pre-commit/mirrors-mypy
+          rev: v0.740
+          hooks:
+          - id: mypy
+      ```
+      
+      * Next, you must tell pre-commit to set up the hooks by executing
+
+        ```
+        # I assume your are in the top level folder
+        pre-commit install
+        ```
+
+        * Now the hooks will run on every commit!
+      * To run, execute:
+        * `pre-commit run --all-files`
