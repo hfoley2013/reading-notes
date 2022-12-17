@@ -41,6 +41,7 @@
     * Python
       * Requires proper in dentation for function to be read properly
       * Uses `:`
+      * Has `lambda` functions that allow you to create anonymous functions within other functions
     * JS
       * Indentation is for readability only and does not impact the functions execution
       * Uses `;`
