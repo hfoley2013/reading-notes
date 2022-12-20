@@ -22,3 +22,17 @@
   * `from <module-name> import <function-name>`
 * Can skip tests by placing `@pytest.mark.skip()` on the line proceeding the function you want to skip
 * **NOTE:** When you first run a test it will fail because you have not yet built the function
+* Test Structure
+  
+  ```py
+  def test_fiz_buzz_7():
+    actual = fizz_buzz(7)
+    expected = "Fizz"
+    assert actual ==  expected
+  ```
+  
+  * Actual says, "here's the actual value returned by the function"
+  * Expected says, "here's the value I expect the function to return"
+  * Assert says, "these two things are equal"
+    * If they are the same, test passes
+    * If they are different, the test fails
