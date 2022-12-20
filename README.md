@@ -216,3 +216,5 @@
 * **Day 1: Intro to 401 Python**
   * [Pain & Suffering, Guide to Big O Notation, Names & Values in Python, Awesome Python Environment](https://hfoley2013.github.io/reading-notes/401/class1/intro-class)
   * [Code Challenge Workflow](https://hfoley2013.github.io/reading-notes/401/class1/code-challenge-workflow)
+* **Day 2: Testing and Modules**
+  * [Testing and Modules](https://hfoley2013.github.io/reading-notes/401/class2/testing-modules)
