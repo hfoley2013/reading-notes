@@ -218,3 +218,6 @@
   * [Code Challenge Workflow](https://hfoley2013.github.io/reading-notes/401/class1/code-challenge-workflow)
 * **Day 2: Testing and Modules**
   * [Testing and Modules](https://hfoley2013.github.io/reading-notes/401/class2/testing-modules)
+  * [In Class Notes: Testing](https://hfoley2013.github.io/reading-notes/401/class2/in-class-notes-testing)
+* **Day 3: FileIO & Exceptions**
+  * [FileIO & Exceptions](https://hfoley2013.github.io/reading-notes/401/class3/fileio-exceptions)
