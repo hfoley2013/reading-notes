@@ -222,3 +222,5 @@
 * **Day 3: FileIO & Exceptions**
   * [FileIO & Exceptions](https://hfoley2013.github.io/reading-notes/401/class3/fileio-exceptions)
   * [In Class Notes: FileIO](https://hfoley2013.github.io/reading-notes/401/class3/fileio-in-class-notes)
+* **Day 4: Classes & Objects; Pytest Fixtures**
+  * [Classes & Objects; Pytest Fixtures](https://hfoley2013.github.io/reading-notes/401/class4/classes-objects)
