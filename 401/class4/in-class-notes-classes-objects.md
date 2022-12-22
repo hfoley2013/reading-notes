@@ -33,6 +33,9 @@ class Pug(Dog):
   * `self` is like the contextual `this`
     * `self` is inherent to the class, like `this`
     * It allows you to pull contextual information out of the class using .dot notation
+  * By convention, `Class` is uppercase, just like in React
+  * Instead of needing to write `extends` like in React, the `Class` is extended by being referenced inside another child class
+    * `class Pug(Dog)` reads as "class Pug extends class Dog"
 
 * Example tests
 
