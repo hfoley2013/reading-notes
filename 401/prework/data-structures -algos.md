@@ -2,6 +2,7 @@
 
 ## Resources
 
+* [Big O: Analysis of Algorithm Efficiency](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html)
 * [Basic Recursion](https://www.youtube.com/watch?v=vPEJSJMg4jY)
 * [Data Structures in 15 Minutes](https://www.youtube.com/watch?v=sVxBVvlnJsM)
 * [Big O Explained](https://www.youtube.com/watch?v=v4cd1O4zkGw)
