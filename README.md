@@ -226,3 +226,5 @@
   * [Classes & Objects; Pytest Fixtures](https://hfoley2013.github.io/reading-notes/401/class4/classes-objects)
 * **Day 5: Linked Lists and Algorithm Efficiency**
   * [Linked Lists and Algorithm Efficiency](https://hfoley2013.github.io/reading-notes/401/class5/linked-lists)
+* **Day 6: Python Random Functions & Implementation**
+  * [Python Random Functions & Use Cases](https://hfoley2013.github.io/reading-notes/401/class6/python-random)
