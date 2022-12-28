@@ -228,3 +228,5 @@
   * [Linked Lists and Algorithm Efficiency](https://hfoley2013.github.io/reading-notes/401/class5/linked-lists)
 * **Day 6: Python Random Functions & Implementation**
   * [Python Random Functions & Use Cases](https://hfoley2013.github.io/reading-notes/401/class6/python-random)
+* **Day 7: Python Scope**
+  * [Python Random Functions & Use Cases](https://hfoley2013.github.io/reading-notes/401/class7/python-scope)
