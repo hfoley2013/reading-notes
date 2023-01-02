@@ -236,3 +236,4 @@
   * [Stacks and Queues](https://hfoley2013.github.io/reading-notes/401/class10/stack-queue)
 * **Day 10: Data Analysis**
   * [Data Analysis](https://hfoley2013.github.io/reading-notes/401/class11/data-analysis)
+  * [In-Class Notes: Lab 11](https://hfoley2013.github.io/reading-notes/401/class11/in-class-notes-11)
