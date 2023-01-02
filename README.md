@@ -229,8 +229,10 @@
 * **Day 6: Python Random Functions & Implementation**
   * [Python Random Functions & Use Cases](https://hfoley2013.github.io/reading-notes/401/class6/python-random)
 * **Day 7: Python Scope**
-  * [Python Random Functions & Use Cases](https://hfoley2013.github.io/reading-notes/401/class7/python-scope)
+  * [Python Scope](https://hfoley2013.github.io/reading-notes/401/class7/python-scope)
 * **Day 8: Python List Comprehension**
   * [List Comprehension](https://hfoley2013.github.io/reading-notes/401/class8/list-comprehension)
 * **Day 9: Stacks and Queues**
   * [Stacks and Queues](https://hfoley2013.github.io/reading-notes/401/class10/stack-queue)
+* **Day 10: Data Analysis**
+  * [Data Analysis](https://hfoley2013.github.io/reading-notes/401/class11/data-analysis)
