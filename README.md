@@ -237,3 +237,6 @@
 * **Day 10: Data Analysis**
   * [Data Analysis](https://hfoley2013.github.io/reading-notes/401/class11/data-analysis)
   * [In-Class Notes: Lab 11](https://hfoley2013.github.io/reading-notes/401/class11/in-class-notes-11)
+* **Day 11: Pandas**
+  * [Pandas](https://hfoley2013.github.io/reading-notes/401/class12/pandas)
+  * [In-Class Notes: Lab 12](https://hfoley2013.github.io/reading-notes/401/class12/in-class-notes-12)
