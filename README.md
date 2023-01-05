@@ -240,3 +240,7 @@
 * **Day 11: Pandas**
   * [Pandas](https://hfoley2013.github.io/reading-notes/401/class12/pandas)
   * [In-Class Notes: Lab 12](https://hfoley2013.github.io/reading-notes/401/class12/in-class-notes-12)
+* **Day 12: Linear Regression**
+  * [Linear Regression](https://hfoley2013.github.io/reading-notes/401/class13/linear-regression)
+* **Day 13: Data Visualization**
+  * [Data Visualization](https://hfoley2013.github.io/reading-notes/401/class14/data-visualization)
