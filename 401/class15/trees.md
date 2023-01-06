@@ -193,6 +193,12 @@ class Node:
         self.right = right
 ```
 
+#### Binary Tree Methods
+
+* `pre_order()`: This method performs a pre-order traversal of the binary tree and returns a list of the values of the nodes in the tree. It uses a stack to store the nodes that are waiting to be visited. It first adds the current node to the list of values, then pushes the right and left child nodes onto the stack if they exist. The time complexity of this method is `O(n)`, where n is the number of nodes in the tree. This is because each node in the tree is visited exactly once.
+* `in_order()`: This method performs an in-order traversal of the binary tree and returns a list of the values of the nodes in the tree. It uses a stack to store the nodes that are waiting to be visited. It first pushes the current node and all of its left child nodes onto the stack, then adds the value of the current node to the list of values and sets the current node to its right child. If the current node has no right child, it pops the top node from the stack and repeats the process. The time complexity of this method is also `O(n)`. This is because each node in the tree is visited exactly once.
+* `post_order()`: This method performs a post-order traversal of the binary tree and returns a list of the values of the nodes in the tree. It uses a stack to store the nodes that are waiting to be visited. It first pushes the current node and all of its child nodes onto the stack, then adds the value of the current node to the list of values and sets the current node to the top node of the stack. If the current node has no children, it pops the top node from the stack and repeats the process. The final list of values is reversed to achieve the correct order. The time complexity of this method is also `O(n)`. This is because each node in the tree is visited exactly once.
+
 ```py
 from data_structures.binary_tree import BinaryTree, Node
 
