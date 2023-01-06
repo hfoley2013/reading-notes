@@ -6,6 +6,12 @@
 
 ## Notes
 
+### Summary of Binary Tree Search Methods
+
+* **Pre-order:** `root >> left >> right`
+* **In-order:** `left >> root >> right`
+* **Post-order:** `left >> right >> root`
+
 ### What is a tree?
 
 A tree is a commonly used abstract data type that simulates a hierarchical tree structure, with a set of nodes or vertices, and edges connecting them. Each node in the tree has a value and may have one or more child nodes. The topmost node in the tree is called the root node, and there is no parent node for the root node. Each node in the tree, except for the root node, has exactly one parent node. The edges connecting the nodes represent the relationships between the nodes.
@@ -121,3 +127,104 @@ This will print the values of the nodes in the following order: 1, 2, 3, 4, 5, 6
 ![Step 6](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BreadthTraversal6.PNG)
 ![Step 7](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BreadthTraversal7.PNG)
 ![Step 8](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BreadthTraversal8.PNG)
+
+### Code for Binary Tree and Binary Search Tree
+
+```py
+class BinaryTree:
+
+    def __init__(self, root=None):
+        self.root = root
+
+    def pre_order(self):
+        values = []
+        stack = [self.root]
+        while stack:
+            node = stack.pop()
+            values.append(node.value)
+            if node.right:
+                stack.append(node.right)
+            if node.left:
+                stack.append(node.left)
+        return values
+
+    def in_order(self):
+        values = []
+        stack = []
+        node = self.root
+        while stack or node:
+            while node:
+                stack.append(node)
+                node = node.left
+            node = stack.pop()
+            values.append(node.value)
+            node = node.right
+        return values
+
+    def breadth_first(self):
+        values = []
+        queue = [self.root]
+        while queue:
+            node = queue.pop(0)
+            values.append(node.value)
+            if node.left:
+                queue.append(node.left)
+            if node.right:
+                queue.append(node.right)
+        return values
+
+
+    def post_order(self):
+        values = []
+        stack = [self.root]
+        while stack:
+            node = stack.pop()
+            values.append(node.value)
+            if node.left:
+                stack.append(node.left)
+            if node.right:
+                stack.append(node.right)
+        return values[::-1]
+
+class Node:
+    def __init__(self, value, left=None, right=None):
+        self.value = value
+        self.left = left
+        self.right = right
+```
+
+```py
+from data_structures.binary_tree import BinaryTree, Node
+
+class BinarySearchTree(BinaryTree):
+   
+   def add(self, value):
+        new_node = Node(value)
+        if not self.root:
+            self.root = new_node
+            return
+
+        node = self.root
+        while True:
+            if value < node.value:
+                if not node.left:
+                    node.left = new_node
+                    return
+                node = node.left
+            else:
+                if not node.right:
+                    node.right = new_node
+                    return
+                node = node.right
+
+    def contains(self, value):
+        node = self.root
+        while node:
+            if value == node.value:
+                return True
+            elif value < node.value:
+                node = node.left
+            else:
+                node = node.right
+        return False
+```
