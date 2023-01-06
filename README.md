@@ -244,3 +244,5 @@
   * [Linear Regression](https://hfoley2013.github.io/reading-notes/401/class13/linear-regression)
 * **Day 13: Data Visualization**
   * [Data Visualization](https://hfoley2013.github.io/reading-notes/401/class14/data-visualization)
+* **Day 14: Trees**
+  * [Binary Trees, Binary Search Trees, and K-ary Trees](https://hfoley2013.github.io/reading-notes/401/class14/trees)
