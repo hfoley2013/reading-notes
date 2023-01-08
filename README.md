@@ -246,3 +246,5 @@
   * [Data Visualization](https://hfoley2013.github.io/reading-notes/401/class14/data-visualization)
 * **Day 14: Trees**
   * [Binary Trees, Binary Search Trees, and K-ary Trees](https://hfoley2013.github.io/reading-notes/401/class15/trees)
+* **Day 15: Serverless Functions**
+  * [Severless Functions, Requests Library, and Python & APIs](https://hfoley2013.github.io/reading-notes/401/class16/serverless)
