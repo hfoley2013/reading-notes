@@ -187,3 +187,103 @@ http.server uses classes from [socketserver](https://pymotw.com/3/socketserver/i
   server = HTTPServer(('localhost', 8000), RequestHandler)
   server.serve_forever()
   ```
+
+### Request Library for API Calls
+
+* Need to install: `python -m pip install requests`
+
+* CRUD examples
+
+  ```py
+  import requests
+
+  # Set the base URL for the API endpoint
+  base_url = "https://api.example.com"
+
+  # Set the endpoint path
+  endpoint = "/users"
+
+  # Set the headers for the request
+  headers = {
+      "Content-Type": "application/json",
+      "Authorization": "Bearer abc123"
+  }
+
+  # Set the payload for the request
+  payload = {
+      "name": "John Smith",
+      "email": "john@example.com"
+  }
+
+  # Send a POST request to create a new resource
+  response = requests.post(base_url + endpoint, headers=headers, json=payload)
+
+  # Print the response status code
+  print(response.status_code)
+
+  # Print the response body
+  print(response.json())
+
+  # Set the resource ID for the resource we just created
+  resource_id = 123
+
+  # Send a GET request to read the resource
+  response = requests.get(base_url + endpoint + '/' + str(resource_id), headers=headers)
+
+  # Print the response status code
+  print(response.status_code)
+
+  # Print the response body
+  print(response.json())
+
+  # Set the updated payload for the request
+  payload = {
+      "name": "John Doe",
+      "email": "john@example.com"
+  }
+
+  # Send a PUT request to update the resource
+  response = requests.put(base_url + endpoint + '/' + str(resource_id), headers=headers, json=payload)
+
+  # Print the response status code
+  print(response.status_code)
+
+  # Print the response body
+  print(response.json())
+
+  # Send a DELETE request to delete the resource
+  response = requests.delete(base_url + endpoint + '/' + str(resource_id), headers=headers)
+
+  # Print the response status code
+  print(response.status_code)
+  ```
+
+* Detailed `GET` request
+
+  ```py
+  import requests
+
+  # Set the base URL for the API endpoint
+  base_url = "https://api.example.com"
+
+  # Set the endpoint path
+  endpoint = "/users"
+
+  # Set the API key
+  api_key = "abc123"
+
+  # Set the headers for the request
+  headers = {
+      "Content-Type": "application/json",
+      "Authorization": "API-Key " + api_key
+  }
+
+  # Send a GET request to read a resource
+  response = requests.get(base_url + endpoint + '/123', headers=headers)
+
+  # Print the response status code
+  print(response.status_code)
+
+  # Print the response body
+  print(response.json())
+  ```
