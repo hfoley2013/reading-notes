@@ -252,3 +252,5 @@
   * [Web Scraping](https://hfoley2013.github.io/reading-notes/401/class17/web-scraping)
 * **Day 17: Cryptography**
   * [Cryptography](https://hfoley2013.github.io/reading-notes/401/class18/cryptography)
+* **Day 18: Automation**
+  * [Automation](https://hfoley2013.github.io/reading-notes/401/class19/automation)
