@@ -254,3 +254,5 @@
   * [Cryptography](https://hfoley2013.github.io/reading-notes/401/class18/cryptography)
 * **Day 18: Automation**
   * [Automation](https://hfoley2013.github.io/reading-notes/401/class19/automation)
+* **Day 36: Django**
+  * [Intro to Django](https://hfoley2013.github.io/reading-notes/401/class26/django)
