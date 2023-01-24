@@ -257,3 +257,5 @@
 * **Day 26: Django**
   * [Intro to Django](https://hfoley2013.github.io/reading-notes/401/class26/django)
   * [Django Checklist](https://hfoley2013.github.io/reading-notes/401/class26/django-checklist)
+* **Day 27: Django Models**
+  * [Django Models](https://hfoley2013.github.io/reading-notes/401/class27/models)
