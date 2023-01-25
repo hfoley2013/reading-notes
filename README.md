@@ -258,4 +258,6 @@
   * [Intro to Django](https://hfoley2013.github.io/reading-notes/401/class26/django)
   * [Django Checklist](https://hfoley2013.github.io/reading-notes/401/class26/django-checklist)
 * **Day 27: Django Models**
-  * [Django Models](https://hfoley2013.github.io/reading-notes/401/class27/models)
+  * [Django Models](https://hfoley2013.github.io/reading-notes/401/class27/model)
+* **Day 28: Django CRUD and Forms**
+  * [Django Models](https://hfoley2013.github.io/reading-notes/401/class28/django-crud)
