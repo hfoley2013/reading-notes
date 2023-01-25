@@ -260,4 +260,4 @@
 * **Day 27: Django Models**
   * [Django Models](https://hfoley2013.github.io/reading-notes/401/class27/model)
 * **Day 28: Django CRUD and Forms**
-  * [Django Models](https://hfoley2013.github.io/reading-notes/401/class28/django-crud)
+  * [Django CRUD and Forms](https://hfoley2013.github.io/reading-notes/401/class28/django-crud)
