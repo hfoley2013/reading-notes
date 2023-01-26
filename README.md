@@ -262,3 +262,5 @@
 * **Day 28: Django CRUD and Forms**
   * [Django CRUD and Forms](https://hfoley2013.github.io/reading-notes/401/class28/django-crud)
   * [In-Class Notes](https://hfoley2013.github.io/reading-notes/401/class28/in-class)  
+* **Day 29: Django Custom User**
+  * [Django Custom User](https://hfoley2013.github.io/reading-notes/401/class29/custom-user)
