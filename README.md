@@ -264,3 +264,5 @@
   * [In-Class Notes](https://hfoley2013.github.io/reading-notes/401/class28/in-class)  
 * **Day 29: Django Custom User**
   * [Django Custom User](https://hfoley2013.github.io/reading-notes/401/class29/custom-user)
+* **Day 30: Hash Tables**
+  * [Hash Tables](https://hfoley2013.github.io/reading-notes/401/class30/hash-tables)
