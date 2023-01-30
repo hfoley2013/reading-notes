@@ -268,3 +268,5 @@
   * [Hash Tables](https://hfoley2013.github.io/reading-notes/401/class30/hash-tables)
 * **Day 31: Docker/Django REST Framework**
   * [Docker/Django REST Framework](https://hfoley2013.github.io/reading-notes/401/class31/docker)
+* **Day 32: Permissions & PostgreSQL**
+  * [Permissions & PostgreSQL](https://hfoley2013.github.io/reading-notes/401/class32/postgresql)
