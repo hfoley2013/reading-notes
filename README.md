@@ -266,3 +266,5 @@
   * [Django Custom User](https://hfoley2013.github.io/reading-notes/401/class29/custom-user)
 * **Day 30: Hash Tables**
   * [Hash Tables](https://hfoley2013.github.io/reading-notes/401/class30/hash-tables)
+* **Day 31: Docker/Django REST Framework**
+  * [Docker/Django REST Framework](https://hfoley2013.github.io/reading-notes/401/class31/docker)
