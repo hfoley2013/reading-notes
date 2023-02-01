@@ -30,6 +30,15 @@
     ```
 
 * Use the same `Dockerfile` from yesterday
+* Need to run **two** terminals
+  * `docker-compose up --build`
+    * Creates the build of the image in Docker
+  * `docker-compose web bash`
+    * Creates a CLI within Docker in which you can enter commands
+    * Within this terminal run:
+      * `python manage.py makemigrations`
+      * `python manage.py migrate`
+      * `python manage.py runserver`
 * Copy over the `docker-compose.yml` file from yesterday and make the following changes:
   * Under `services:`
     * NOTE: The values of the environmental variables need to match what is in your `settings.py`
