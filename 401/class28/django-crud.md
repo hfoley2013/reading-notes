@@ -95,7 +95,7 @@ def my_view(request):
 
 ```py
 <form method="post">
-    {% use_note_at_right_no_spaces %} # NOTE: c s r f _ t o k e n
+    {} # NOTE: { c s r f _ t o k e n } 
     {{ form.as_p }}
     <input type="submit" value="Submit">
 </form>
