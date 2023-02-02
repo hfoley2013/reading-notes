@@ -95,7 +95,7 @@ def my_view(request):
 
 ```py
 <form method="post">
-    {% token %} #NOTE: Add c s r f_ as a single string before token; leaving proper syntax causes erros with GitHub page rendering
+    {% csrf_token %}
     {{ form.as_p }}
     <input type="submit" value="Submit">
 </form>
