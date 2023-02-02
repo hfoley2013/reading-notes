@@ -17,8 +17,7 @@
 * Will add the CRUD methods using different view templates and add them to `settings.py`
   * Import all template views in `settings.py`
 * Use `reverse_lazy` for the success_url on the `delete` method
-<!-- * `{% csrf_token %}` needs to be used within the forms for security
-* `{{% form.as_p %}}` needs to be used as well for security -->
+* `{{% form.as_p %}}` needs to be used as well for security
 
 ```py
 urlpatterns = [
