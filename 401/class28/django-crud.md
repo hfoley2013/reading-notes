@@ -95,7 +95,12 @@ def my_view(request):
 
 ```py
 <form method="post">
-    {} # NOTE: { c s r f _ t o k e n } 
+    {% comment %}
+        {% csrf_token %}
+        # Note that the token will not be enclosed in the comment block in the code.
+        # This is purely for notetaking to avoid Syntax Errors in Jekyll on GitHub Pages deployment.
+    {% endcomment %}
+
     {{ form.as_p }}
     <input type="submit" value="Submit">
 </form>
