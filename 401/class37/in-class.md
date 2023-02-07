@@ -49,3 +49,25 @@
 
   <Link href='linktopage'>Link Display Name</Link>
   ```
+
+* To create the new page
+  * In `pages`, create a new `js` file: `pageName.js`
+    * EX: `careers.js`
+  * Inside the new `js` file, write your functional components and links to other pages
+
+  ```jsx
+  import Link from 'next/link`;
+
+  export default function Careers() {
+    return(
+      <div>
+        <h1>Careers Page Coming Soon</h2>
+        <Link href="/">Home</Link>
+      </div>
+    );
+  };
+  ```
+
+  * Add `className` styling with TailwindCSS as you go
+    * Can create **high order components** to create classes of components with defined styling
+      * Read: [Reusable React Components in Tailwind](https://www.smashingmagazine.com/2020/05/reusable-react-components-tailwind/)
