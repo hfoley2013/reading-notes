@@ -8,10 +8,17 @@
   * NOTE: Make sure to install in the project directory
 * In `tailwinds.config.js`
   
-  ```js
+  ```jsx
   /** @type {import('tailwindcss').Config} */
   module.exports = {
-    content: ["./src/**/*.{html,js}"],
+    content: [
+      "./app/**/*.{js,ts,jsx,tsx}",
+      "./pages/**/*.{js,ts,jsx,tsx}",
+      "./components/**/*.{js,ts,jsx,tsx}",
+  
+      // Or if using `src` directory:
+      "./src/**/*.{js,ts,jsx,tsx}",
+    ],
     theme: {
       extend: {},
     },
