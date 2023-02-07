@@ -270,3 +270,11 @@
   * [Docker/Django REST Framework](https://hfoley2013.github.io/reading-notes/401/class31/docker)
 * **Day 32: Permissions & PostgreSQL**
   * [Permissions & PostgreSQL](https://hfoley2013.github.io/reading-notes/401/class32/postgresql)
+* **Day 33: Production Server**
+  * [Production Server](https://hfoley2013.github.io/reading-notes/401/class33/production-server)
+* **Day 34: API Deployment**
+  * [API Deployment](https://hfoley2013.github.io/reading-notes/401/class34/api-deployment)
+* **Day 35: Graphs**
+  * [Graphs](https://hfoley2013.github.io/reading-notes/401/class35/graphs)
+* **Day 37: React & NextJS**
+  * [React & NextJS](https://hfoley2013.github.io/reading-notes/401/class37/react)
