@@ -279,3 +279,7 @@
 * **Day 37: React & NextJS**
   * [React & NextJS](https://hfoley2013.github.io/reading-notes/401/class37/react)
   * [In Class Notes: NextJS App](https://hfoley2013.github.io/reading-notes/401/class37/in-class)
+* **Day 38: React Conditional Rendering**
+  * [React Conditional Rendering](https://hfoley2013.github.io/reading-notes/401/class38/conditional)
+* **Day 39: React Context**
+  * [React Context](https://hfoley2013.github.io/reading-notes/401/class39/context)
