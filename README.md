@@ -283,3 +283,6 @@
   * [React Conditional Rendering](https://hfoley2013.github.io/reading-notes/401/class38/conditional)
 * **Day 39: React Context**
   * [React Context](https://hfoley2013.github.io/reading-notes/401/class39/context)
+* **Day 41: Dynamic Routes & Deployment**
+  * [Dynamic Route](https://hfoley2013.github.io/reading-notes/401/class41/dynamic-routes)
+  * [Deployment](https://hfoley2013.github.io/reading-notes/401/class41/deployment)
