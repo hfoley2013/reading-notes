@@ -286,3 +286,5 @@
 * **Day 41: Dynamic Routes & Deployment**
   * [Dynamic Route](https://hfoley2013.github.io/reading-notes/401/class41/dynamic-routes)
   * [Deployment](https://hfoley2013.github.io/reading-notes/401/class41/deployment)
+* **Day 42: Pythonisms: Iterators; Generators; Dunder Methods**
+  * [Pythonisms](https://hfoley2013.github.io/reading-notes/401/class42/pythonisms)
