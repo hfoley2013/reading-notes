@@ -5,6 +5,7 @@
 * [Iterators](https://dbader.org/blog/python-iterators)
 * [Dunder Methods](https://dbader.org/blog/python-dunder-methods)
 * [Generators](https://dbader.org/blog/python-generators)
+* [Decorators](https://realpython.com/primer-on-python-decorators/)
 
 ## Notes
 
@@ -62,7 +63,7 @@ for num in EvenIterator():
 
 ### Generators
 
-A generator is a function that produces a sequence of values, typically used in loops, similar to an iterator. The main difference is that generators use the `yield` keyword to return values one at a time, rather than returning all values at once as iterators do.
+A generator is a function that produces a sequence of values, typically used in loops, similar to an iterator. The main difference is that generators use the `yield` keyword to return values one at a time, rather than returning all values at once as iterators do. So generators look like regular functions but instead of using the `return` statement, they use `yield` to pass data back to the caller.
 
 When a generator function is called, it returns a generator object, which can be used to iterate over the sequence of values. Each time the `yield` keyword is encountered in the function, the current value is returned to the caller, and the function's state is saved. The next time the generator is called, execution resumes from where it left off, and the function continues until it encounters another `yield` statement.
 
