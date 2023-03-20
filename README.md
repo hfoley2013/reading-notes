@@ -291,3 +291,9 @@
   * [Ethics in Tech](https://hfoley2013.github.io/reading-notes/401/class42/ethics))
 * **Day 43: Open-Source Software Contributions**
   * [OSS Contribution](https://hfoley2013.github.io/reading-notes/401/class43/oss)
+
+### Continuing Education
+
+* **AWS Cloud Practitioner**
+  * [Intro to AWS](https://hfoley2013.github.io/reading-notes/Continuing_Education/aws_cloud_practitioner/intro_to_aws)
+  * [Compute in the Cloud](https://hfoley2013.github.io/reading-notes/Continuing_Education/aws_cloud_practitioner/compute_in_the_cloud)
