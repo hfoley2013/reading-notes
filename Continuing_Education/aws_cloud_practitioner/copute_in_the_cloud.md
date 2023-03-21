@@ -33,7 +33,7 @@ By comparison, with an Amazon EC2 instance you can use a virtual server to run a
 
 **How EC2 Works**
 
-![EC2](./ec2.png)
+![EC2](../img/ec2.png)
 
 **Launch**
 
@@ -122,7 +122,7 @@ In the cloud, computing power is a programmatic resource, so you can take a more
 
 Suppose that you are preparing to launch an application on Amazon EC2 instances. When configuring the size of your Auto Scaling group, you might set the minimum number of Amazon EC2 instances at one. This means that at all times, there must be at least one Amazon EC2 instance running.
 
-![Scaling](./scaling.png)
+![Scaling](../img/scaling.png)
 
 When you create an Auto Scaling group, you can set the minimum number of Amazon EC2 instances. The **minimum capacity** is the **number of Amazon EC2 instances that launch immediately after you have created the Auto Scaling group**. In this example, the Auto Scaling group has a minimum capacity of one Amazon EC2 instance.
 
@@ -153,7 +153,7 @@ Here’s an example of how Elastic Load Balancing works. Suppose that a few cust
 
 If only a few registers are open, this matches the demand of customers who need service. The coffee shop is less likely to have open registers with no customers. In this example, you can think of the registers as Amazon EC2 instances.
 
-![Low Demand Example](./low_demand.png)
+![Low Demand Example](../img/low_demand.png)
 
 **High-demand period**
 
@@ -161,7 +161,7 @@ Throughout the day, as the number of customers increases, the coffee shop opens 
 
 Additionally, a coffee shop employee directs customers to the most appropriate register so that the number of requests can evenly distribute across the open registers. You can think of this coffee shop employee as a load balancer. 
 
-![High Demand Example](./high_demand.png)
+![High Demand Example](../img/high_demand.png)
 ### Monolithic Applications and Microservices
 
 **Monolithic Applications**
@@ -172,7 +172,7 @@ Suppose that you have an application with tightly coupled components. These comp
 
 In this approach to application architecture, if a single component fails, other components fail, and possibly the entire application fails.
 
-![Monolithic Application](./monolith.png)
+![Monolithic Application](../img/monolith.png)
 
 **Microservices**
 
@@ -190,7 +190,7 @@ In Amazon SNS, subscribers can be web servers, email addresses, AWS Lambda funct
 
 **Publishing updates from a single topic**
 
-![Single Topic Notificaiton](./single_topic.png)
+![Single Topic Notificaiton](../img/single_topic.png)
 
 Suppose that the coffee shop has a single newsletter that includes updates from all areas of its business. It includes topics such as coupons, coffee trivia, and new products. All of these topics are grouped because this is a single newsletter. All customers who subscribe to the newsletter receive updates about coupons, coffee trivia, and new products.
 
@@ -198,7 +198,7 @@ After a while, some customers express that they would prefer to receive separate
 
 **Publishing updates from multiple topics**
 
-![Multiple Topic Notification](./multiple_topics.png)
+![Multiple Topic Notification](../img/multiple_topics.png)
 
 Now, instead of having a single newsletter for all topics, the coffee shop has broken it up into three separate newsletters. Each newsletter is devoted to a specific topic: coupons, coffee trivia, and new products.
 
@@ -214,7 +214,7 @@ Using Amazon SQS, you can send, store, and receive messages between software com
 
 **Example: Fulfilling an order**
 
-![Example: Fulfilling an order](./order.png)
+![Example: Fulfilling an order](../img/order.png)
 
 Suppose that the coffee shop has an ordering process in which a cashier takes orders, and a barista makes the orders. Think of the cashier and the barista as two separate components of an application. 
 
@@ -228,7 +228,7 @@ As the coffee shop has become more popular and the ordering line is moving more 
 
 **Example: Orders in a queue**
 
-![Example: Orders in a queue](./queue.jpg)
+![Example: Orders in a queue](../img/queue.jpg)
 
 Recall that the cashier and the barista are two separate components of an application. A message queuing service such as Amazon SQS enables messages between decoupled application components.
 
@@ -254,7 +254,7 @@ If you have applications that you want to run in Amazon EC2, you must do the fol
 * Upload your code.
 * Continue to manage the instances while your application is running.
 
-![Services](./virtual_services.png)
+![Services](../img/virtual_services.png)
 
 The term “serverless” means that your code runs on servers, but you do not need to provision or manage these servers. With serverless computing, you can focus more on innovating new products and features instead of maintaining servers.
 
@@ -272,7 +272,7 @@ For example, a simple Lambda function might involve automatically resizing uploa
 
 **How AWS Lambda works**
 
-![AWS Lambda](./lambda.png)
+![AWS Lambda](../img/lambda.png)
 
 * You upload your code to Lambda. 
 * You set your code to trigger from an event source, such as AWS services, mobile applications, or HTTP endpoints.
@@ -288,13 +288,13 @@ Containers provide you with a standard way to package your application's code an
 Examples:
 **One host with multiple containers**
 
-![Containers](./containers.png)
+![Containers](../img/img/containers.png)
 
 Suppose that a company’s application developer has an environment on their computer that is different from the environment on the computers used by the IT operations staff. The developer wants to ensure that the application’s environment remains consistent regardless of deployment, so they use a containerized approach. This helps to reduce time spent debugging applications and diagnosing differences in computing environments.
 
 **Tens of hosts with hundreds of containers**
 
-![Many Containers](./many_containers.png)
+![Many Containers](../img/many_containers.png)
 
 When running containerized applications, it’s important to consider scalability. Suppose that instead of a single host with multiple containers, you have to manage tens of hosts with hundreds of containers. Alternatively, you have to manage possibly hundreds of hosts with thousands of containers. At a large scale, imagine how much time it might take for you to monitor memory usage, security, logging, and so on.
 

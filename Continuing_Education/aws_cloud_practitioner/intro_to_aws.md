@@ -23,7 +23,7 @@ See this [article](https://towardsdatascience.com/how-to-become-an-aws-certified
 
 ### What is a Client-Server model?
 
-![Client-Server Model](./client_server.png)
+![Client-Server Model](../img//client_server.png)
 
 In computing, a **client** can be a web browser or desktop application that a person interacts with to make requests to computer servers.
 
