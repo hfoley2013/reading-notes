@@ -297,3 +297,5 @@
 * **AWS Cloud Practitioner**
   * [Intro to AWS](https://hfoley2013.github.io/reading-notes/Continuing_Education/aws_cloud_practitioner/intro_to_aws)
   * [Compute in the Cloud](https://hfoley2013.github.io/reading-notes/Continuing_Education/aws_cloud_practitioner/compute_in_the_cloud)
+  * [AWS Global Infrastructure and Reliability](https://hfoley2013.github.io/reading-notes/Continuing_Education/aws_cloud_practitioner/infrastructure_reliability.md)
+  * [Networking](https://hfoley2013.github.io/reading-notes/Continuing_Education/aws_cloud_practitioner/networking.md)
