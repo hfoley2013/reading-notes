@@ -13,7 +13,20 @@
 
 ### Regions
 
+* AWS builds regions where there is the expected highest business traffic
+* You get to choose the region that you belong to
+* Data doesn't move from one region to another without your permission
+* 4 Business Factors for Selecting a Region:
+  1. Compliance with data governance and legal requirements
+  2. Proximity to your customers
+     * Reduce latency
+  3. Feature Availability / Available services within a Region
+     * Not all features are available in each region
+  4. Pricing
+     * Some locations are more or less expensive than others
+
 ### Availability Zones
+
 
 ### Edge Locations
 
