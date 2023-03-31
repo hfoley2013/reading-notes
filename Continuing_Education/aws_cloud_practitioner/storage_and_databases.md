@@ -2,6 +2,16 @@
 
 ## Resources
 
+* [Cloud Storage on AWS](https://aws.amazon.com/products/storage)
+* [AWS Storage Blog](https://aws.amazon.com/blogs/storage/)
+* [Hands-On Tutorials: Storage](https://aws.amazon.com/getting-started/hands-on/?awsf.getting-started-category=category%23storage&awsf.getting-started-content-type=content-type%23hands-on)
+* [AWS Customer Stories: Storage](https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23storage)
+* [AWS Database Migration Service](https://aws.amazon.com/dms/)
+* [Databases on AWS](https://aws.amazon.com/products/databases)
+* [Category Deep Dive: Databases](https://aws.amazon.com/getting-started/deep-dive-databases/)
+* [AWS Database Blog](https://aws.amazon.com/blogs/database/)
+* [AWS Customer Stories: Databases](https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23databases)
+
 ## Notes
 
 ### Instance Stores and Amazon Elastic Block Store (Amazon EBS)
@@ -149,21 +159,21 @@ Amazon S3 Outposts delivers object storage to your on-premises AWS Outposts envi
 
 In **file storage**, multiple clients (such as users, applications, servers, and so on) can access data that is stored in shared file folders. In this approach, a storage server uses block storage with a local file system to organize files. Clients access data through file paths.
 
-Compared to block storage and object storage, file storage is ideal for use cases in which a large number of services and resources need to access the same data at the same time.
+Compared to block storage and object storage, file storage is **ideal for use cases in which a large number of services and resources need to access the same data at the same time.**
 
-[Amazon Elastic File System (Amazon EFS)](https://aws.amazon.com/efs/) is a scalable file system used with AWS Cloud services and on-premises resources. As you add and remove files, Amazon EFS grows and shrinks automatically. It can scale on demand to petabytes without disrupting applications. 
+[Amazon Elastic File System (Amazon EFS)](https://aws.amazon.com/efs/) is a scalable file system used with AWS Cloud services and on-premises resources. As you add and remove files, **Amazon EFS grows and shrinks automatically**. It can scale on demand to petabytes without disrupting applications.
 
 **Comparing Amazon EBS and Amazon EFS**
 
 **Amazon EBS**
 
-* An Amazon EBS volume stores data in a single Availability Zone. 
-* To attach an Amazon EC2 instance to an EBS volume, both the Amazon EC2 instance and the EBS volume must reside within the same Availability Zone.
+* An Amazon EBS volume stores data in a single Availability Zone.
+* To attach an Amazon EC2 instance to an EBS volume, both the Amazon EC2 instance and the EBS volume ***must* reside within the same Availability Zone.**
 
 **Amazon EFS**
 
-* Amazon EFS is a regional service. It stores data in and across multiple Availability Zones.
-* The duplicate storage enables you to access data concurrently from all the Availability Zones in the Region where a file system is located. Additionally, on-premises servers can access Amazon EFS using AWS Direct Connect.
+* Amazon EFS is a **regional service**. It stores data in and across multiple Availability Zones.
+* The duplicate storage enables you to **access data *concurrently* from *all* the Availability Zones in the Region** where a file system is located. Additionally, on-premises servers can access Amazon EFS using AWS Direct Connect.
 
 ### Amazon Relational Database Service (Amazon RDS)
 
