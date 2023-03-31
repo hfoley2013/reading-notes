@@ -130,6 +130,19 @@ Amazon S3 Deep Archive supports long-term retention and digital preservation for
 
 Amazon S3 Outposts delivers object storage to your on-premises AWS Outposts environment. Amazon S3 Outposts is designed to store data durably and redundantly across multiple devices and servers on your Outposts. It works well for workloads with local data residency requirements that must satisfy demanding performance needs by keeping data close to on-premises applications.
 
+**Comparing Amazon EBS and Amazon S3**
+
+* EBS
+  * Sizes up to 16 TiB
+  * Survive termination of their EC2 instance
+  * Solid state by default
+  * HDD options
+* S3
+  * Unlimited storage
+  * Individual objects up to 5 TBs
+  * Write once/read many
+  * 99.99999999999% durable
+
 ### Amazon Elastic File System (Amazon EFS)
 
 **File Storage**
