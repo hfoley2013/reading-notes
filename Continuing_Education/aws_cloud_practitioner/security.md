@@ -12,7 +12,9 @@ The [shared responsibility model](https://aws.amazon.com/compliance/shared-respo
 
 ![Shared Responsibility Model](../img/shared_responsiblity.png)
 
-You can think of this model as being similar to the division of responsibilities between a homeowner and a homebuilder. The builder (AWS) is responsible for constructing your house and ensuring that it is solidly built. As the homeowner (the customer), it is your responsibility to secure everything in the house by ensuring that the doors are closed and locked. 
+You can think of this model as being similar to the division of responsibilities between a homeowner and a homebuilder. The builder (AWS) is responsible for constructing your house and ensuring that it is solidly built. As the homeowner (the customer), it is your responsibility to secure everything in the house by ensuring that the doors are closed and locked.
+
+The operating system is the dividing line between AWS and Customer responsibilities.
 
 **Customers: Security in the Cloud**
 
