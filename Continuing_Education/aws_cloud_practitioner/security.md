@@ -213,7 +213,7 @@ Next, suppose that a member of your company’s development team is building an 
 
 AWS Artifact Reports provide compliance reports from third-party auditors. These auditors have tested and verified that AWS is compliant with a variety of global, regional, and industry-specific security standards and regulations. AWS Artifact Reports remains up to date with the latest reports released. You can provide the AWS audit artifacts to your auditors or regulators as evidence of AWS security controls.
 
-![AWS Artifact](../img/aws_artifact.png)
+![AWS Artifact](../img/aws_artifact.jpg)
 
 The following are some of the compliance reports and regulations that you can find within AWS Artifact. Each report includes a description of its contents and the reporting period for which the document is valid.
 
