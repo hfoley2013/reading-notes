@@ -75,7 +75,7 @@ Then, continue to create other IAM users, and access those identities for perfor
 
 An **IAM user** is an identity that you create in AWS. It represents the person or application that interacts with AWS services and resources. It consists of a name and credentials.
 
-By default, when you create a new IAM user in AWS, it has no permissions associated with it. To allow the IAM user to perform specific actions in AWS, such as launching an Amazon EC2 instance or creating an Amazon S3 bucket, you must grant the IAM user the necessary permissions.
+**By default, when you create a new IAM user in AWS, it has *no permissions* associated with it.** To allow the IAM user to perform specific actions in AWS, such as launching an Amazon EC2 instance or creating an Amazon S3 bucket, you must grant the IAM user the necessary permissions.
 
 **Best practice:**
 We recommend that you create individual IAM users for each person who needs to access AWS.  
@@ -120,13 +120,13 @@ What if a coffee shop employee hasn’t switched jobs permanently, but instead, 
 
 **IAM Roles**
 
-In the coffee shop, an employee rotates to different workstations throughout the day. Depending on the staffing of the coffee shop, this employee might perform several duties: work at the cash register, update the inventory system, process online orders, and so on. 
+In the coffee shop, an employee rotates to different workstations throughout the day. Depending on the staffing of the coffee shop, this employee might perform several duties: work at the cash register, update the inventory system, process online orders, and so on.
 
 When the employee needs to switch to a different task, they give up their access to one workstation and gain access to the next workstation. The employee can easily switch between workstations, but at any given point in time, they can have access to only a single workstation. This same concept exists in AWS with IAM roles.
 
 An IAM role is an identity that you can assume to gain temporary access to permissions.  
 
-Before an IAM user, application, or service can assume an IAM role, they must be granted permissions to switch to the role. When someone assumes an IAM role, they abandon all previous permissions that they had under a previous role and assume the permissions of the new role. 
+Before an IAM user, application, or service can assume an IAM role, they must be granted permissions to switch to the role. When someone assumes an IAM role, they abandon all previous permissions that they had under a previous role and assume the permissions of the new role.
 
 **Best practice:**
 IAM roles are ideal for situations in which access to services or resources needs to be granted temporarily, instead of long-term.  
