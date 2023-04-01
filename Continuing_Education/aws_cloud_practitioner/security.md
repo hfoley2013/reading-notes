@@ -2,6 +2,13 @@
 
 ## Resources
 
+[Security, Identity, and Compliance on AWS](https://aws.amazon.com/products/security)
+[Whitepaper: Introduction to AWS Security](https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/welcome.html)
+[Whitepaper: Amazon Web Services - Overview of Security Processes](https://docs.aws.amazon.com/whitepapers/latest/aws-overview-security-processes/aws-overview-security-processes.pdf)
+[AWS Security Blog](https://aws.amazon.com/blogs/security/)
+[AWS Compliance](https://aws.amazon.com/compliance)
+[AWS Customer Stories: Security, Identity, and Compliance](https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23security-identity-compliance)
+
 ## Notes
 
 ### Shared Responsibility Model
@@ -211,7 +218,7 @@ In AWS Artifact Agreements, you can review, accept, and manage agreements for an
 
 Next, suppose that a member of your company’s development team is building an application and needs more information about their responsibility for complying with certain regulatory standards. You can advise them to access this information in **AWS Artifact Reports**.
 
-AWS Artifact Reports provide compliance reports from third-party auditors. These auditors have tested and verified that AWS is compliant with a variety of global, regional, and industry-specific security standards and regulations. AWS Artifact Reports remains up to date with the latest reports released. You can provide the AWS audit artifacts to your auditors or regulators as evidence of AWS security controls.
+AWS Artifact Reports provide **compliance reports from third-party auditors**. These auditors have tested and verified that AWS is compliant with a variety of global, regional, and industry-specific security standards and regulations. AWS Artifact Reports remains up to date with the latest reports released. You can *provide the AWS audit artifacts to your auditors or regulators as evidence of AWS security controls*.
 
 ![AWS Artifact](../img/aws_artifact.jpg)
 
