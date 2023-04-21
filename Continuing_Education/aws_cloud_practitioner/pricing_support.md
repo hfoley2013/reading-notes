@@ -122,6 +122,15 @@ All the usage for Amazon S3 in this example is under the AWS Free Tier limits, s
 
 ### Billing Dashboard
 
+Use the [AWS Billing & Cost Management dashboard](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html) to pay your AWS bill, monitor your usage, and analyze and control your costs.
+
+* Compare your current month-to-date balance with the previous month, and get a forecast of the next month based on current usage.
+* View month-to-date spend by service.
+* View Free Tier usage by service.
+* Access Cost Explorer and create budgets.
+* Purchase and manage Savings Plans.
+* Publish [AWS Cost and Usage Reports](https://docs.aws.amazon.com/cur/latest/userguide/what-is-cur.html).
+
 ### Consolidated Billing
 
 ### AWS Budgets
