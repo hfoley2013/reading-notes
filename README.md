@@ -303,3 +303,4 @@
   * [Security](https://hfoley2013.github.io/reading-notes/Continuing_Education/aws_cloud_practitioner/security.md)
   * [Monitoring and Analytics](https://hfoley2013.github.io/reading-notes/Continuing_Education/aws_cloud_practitioner/monitoring_analytics.md)
   * [Pricing and Support](https://hfoley2013.github.io/reading-notes/Continuing_Education/aws_cloud_practitioner/pricing_support.md)
+  * [Migration and Innovation](https://hfoley2013.github.io/reading-notes/Continuing_Education/aws_cloud_practitioner/migration_innovation.md)
