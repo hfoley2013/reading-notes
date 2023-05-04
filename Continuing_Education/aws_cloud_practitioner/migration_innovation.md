@@ -141,7 +141,7 @@ The AWS Snow Family is a collection of physical devices that help to physically 
 
 AWS Snow Family is composed of **AWS Snowcone**, **AWS Snowball**, and **AWS Snowmobile**. 
 
-![AWS Snow Family of Servies](../img/aws_snow.jpg)
+![AWS Snow Family of Services](../img/aws_snow.jpg)
 
 These devices offer different capacity points, and most include built-in computing capabilities. AWS owns and manages the Snow Family devices and integrates with AWS security, monitoring, storage management, and computing capabilities.  
 
