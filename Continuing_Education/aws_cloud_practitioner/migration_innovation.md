@@ -198,3 +198,9 @@ For example, you can perform the following tasks:
 Traditional **machine learning (ML)** development is complex, expensive, time consuming, and error prone. AWS offers Amazon SageMaker to remove the difficult work from the process and empower you to build, train, and deploy ML models quickly.
 
 You can use ML to analyze data, solve complex problems, and predict outcomes before they happen.
+
+Other services:
+
+* **Amazon Textract** is a machine learning service that automatically extracts text and data from scanned documents.
+* **Amazon Lex** is a service that enables you to build conversational interfaces using voice and text.
+* **AWS DeepRacer** is an autonomous 1/18 scale race car that you can use to test reinforcement learning models.
