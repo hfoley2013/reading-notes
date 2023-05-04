@@ -195,7 +195,7 @@ For example, you can perform the following tasks:
 
 **Machine Learning**
 
-Traditional **machine learning (ML)** development is complex, expensive, time consuming, and error prone. AWS offers Amazon SageMaker to remove the difficult work from the process and empower you to build, train, and deploy ML models quickly.
+Traditional **machine learning (ML)** development is complex, expensive, time consuming, and error prone. AWS offers **Amazon SageMaker** to remove the difficult work from the process and empower you to build, train, and deploy ML models quickly.
 
 You can use ML to analyze data, solve complex problems, and predict outcomes before they happen.
 
