@@ -38,3 +38,4 @@ As part of your preparation for the AWS Certified Cloud Practitioner exam, we re
 * [Overview of Amazon Web Services](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
 * [How AWS Pricing Works](http://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf)
 * [Compare AWS Support Plans](https://aws.amazon.com/premiumsupport/plans/)
+* [Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
