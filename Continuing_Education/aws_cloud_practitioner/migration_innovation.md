@@ -135,4 +135,66 @@ Retiring is the process of removing applications that are no longer needed.
 
 ### AWS Snow Family
 
+**AWS Snow Family Members**
+
+The AWS Snow Family is a collection of physical devices that help to physically transport up to exabytes of data into and out of AWS. 
+
+AWS Snow Family is composed of **AWS Snowcone**, **AWS Snowball**, and **AWS Snowmobile**. 
+
+![AWS Snow Family of Servies](../img/aws_snow.jpg)
+
+These devices offer different capacity points, and most include built-in computing capabilities. AWS owns and manages the Snow Family devices and integrates with AWS security, monitoring, storage management, and computing capabilities.  
+
+**AWS Snowcone**
+
+[AWS Snowcone](https://aws.amazon.com/snowcone) is a small, rugged, and secure edge computing and data transfer device. 
+
+It features 2 CPUs, 4 GB of memory, and 8 TB of usable storage.
+
+**AWS Snowball**
+
+[AWS Snowball](https://aws.amazon.com/snowball/) offers two types of devices:
+
+* **Snowball Edge Storage Optimized** devices are well suited for large-scale data migrations and recurring transfer workflows, in addition to local computing with higher capacity needs. Snowball Edge Storage Optimized provides 80 TB of HDD capacity for block volumes and Amazon S3-compatible object storage, and 1 TB of SATA SSD for block volumes.
+* **Snowball Edge Compute Optimized** provides powerful computing resources for use cases such as machine learning, full motion video analysis, analytics, and local computing stacks. 
+
+**AWS Snowmobile**
+
+[AWS Snowmobile](https://aws.amazon.com/snowmobile) is an exabyte-scale data transfer service used to move large amounts of data to AWS. 
+
+You can transfer up to 100 petabytes of data per Snowmobile, a 45-foot long ruggedized shipping container, pulled by a semi trailer truck.
+
 ### Innovate with AWS
+
+When examining how to use AWS services, it is important to focus on the desired outcomes. You are properly equipped to drive innovation in the cloud if you can clearly articulate the following conditions: 
+
+* The current state
+* The desired state
+* The problems you are trying to solve
+
+Consider some of the paths you might explore in the future as you continue on your cloud journey. 
+
+**Serverless Applications**
+
+With AWS, **serverless** refers to applications that don’t require you to provision, maintain, or administer servers. You don’t need to worry about fault tolerance or availability. AWS handles these capabilities for you.
+
+AWS Lambda is an example of a service that you can use to run serverless applications. If you design your architecture to trigger Lambda functions to run your code, you can bypass the need to manage a fleet of servers.
+
+Building your architecture with serverless applications enables your developers to focus on their core product instead of managing and operating servers.
+
+**Artificial Intelligence**
+
+AWS offers a variety of services powered by **artificial intelligence (AI)**. 
+
+For example, you can perform the following tasks:
+
+* Convert speech to text with Amazon Transcribe.
+* Discover patterns in text with Amazon Comprehend.
+* Identify potentially fraudulent online activities with Amazon Fraud Detector.
+* Build voice and text chatbots with Amazon Lex.
+
+**Machine Learning**
+
+Traditional **machine learning (ML)** development is complex, expensive, time consuming, and error prone. AWS offers Amazon SageMaker to remove the difficult work from the process and empower you to build, train, and deploy ML models quickly.
+
+You can use ML to analyze data, solve complex problems, and predict outcomes before they happen.
