@@ -22,3 +22,7 @@
   * [AWS Architecture Center](https://aws.amazon.com/architecture)
   * [Six Advantages of Cloud Computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
   * [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture)
+
+### The AWS Well-Architected Framework
+
+### Benefits of the AWS Cloud
